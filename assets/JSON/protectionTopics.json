@@ -500,7 +500,7 @@
       "order": "16",
       "question": "情境如附圖所示。承上題，請問在零信任的原則，於 ANSI/ISA-95 普渡模型架構之下，建立 Level 2 監控層、Level 3 營運作業及 Level 4 管理層之中 OT 工控設施與 IT 資訊系統的安全防護能力，下列何者「不」是適當的解決方案？",
       "group": 2,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/113-1/005.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -533,7 +533,7 @@
       "order": "17",
       "question": "情境如附圖所示。承上題，本系統在經過弱點掃瞄後將進行相關安全補正措施，請問下列何者「不」符合最小管理成本的立即解決方案？",
       "group": 2,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/113-1/005.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -566,7 +566,7 @@
       "order": "18",
       "question": "情境如附圖所示。承上題，S 公司當年委外開發本營運系統時並未有任何軟體安全之要求 ， 當前參閱考 OWASP top10 和 OWASP Mobile Security 評估現階的軟體安全防護規劃，請問下列哪些措施較為適合迅速補強軟體弱點？",
       "group": 2,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/113-1/005.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -797,7 +797,7 @@
       "order": "25",
       "question": "情境如附圖所示，廠商 A 主要的資訊環境為 Windows 平台，若想檢視其如帳號登出、登入等事件，請問最合適的內建系統或工具為下列何項？",
       "group": 3,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/113-1/006.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -830,7 +830,7 @@
       "order": "26",
       "question": "情境如附圖所示，因部分服務主機環境為 Linux，故廠商 A 有一套依照 The Syslog Protocol（RFC5424）標準建置的日誌記錄系統，請問某事件為 NTP 子系統相關的記錄，其優先值（Priority）為 96，試問該事件的重要性（Severity）為下列何項？",
       "group": 3,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/113-1/006.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -863,7 +863,7 @@
       "order": "27",
       "question": "情境如附圖所示，廠商 A 擬依照 The Syslog Protocol（RFC5424）標準建置的日誌記錄系統，某告警（warning）事件為使用者等級訊息（user-level messages），請問下列描述哪些正確？",
       "group": 3,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/113-1/006.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -1094,7 +1094,7 @@
       "order": "34",
       "question": "情境如附圖所示，紅隊進行內部滲透測試攻擊，關於針對滲透的方法，下列何者錯誤？",
       "group": 4,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/113-1/007.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -1127,7 +1127,7 @@
       "order": "35",
       "question": "情境如附圖所示，紅隊進行內部滲透測試攻擊，下列哪一項「不」是針對 Password spray 會使用的手法？",
       "group": 4,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/113-1/007.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -1160,7 +1160,7 @@
       "order": "36",
       "question": "情境如附圖所示，網域控制站（DC）是滲透測試重要的目標，而 ntds.dit 是 AD 主要的資料，可以透過下列哪些方式進行提取？",
       "group": 4,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/113-1/007.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -1457,7 +1457,7 @@
       "order": "05",
       "question": "情境如附圖所示，依據公司高層的要求，工程師正評估採用「弱點評估」工具來評估公司內部潛在的弱點項目，試問下列有關「弱點評估」之敘述，下列何者「有誤」？",
       "group": 1,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/113-2/001.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -1490,7 +1490,7 @@
       "order": "06",
       "question": "情境如附圖所示，工程師在評估使用「弱點評估」工具過程中發現了「通用弱點評分系統（Common Vulnerability Scoring System，CVSS）」的網站，請問下列敘述何項錯誤？",
       "group": 1,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/113-2/001.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -1523,7 +1523,7 @@
       "order": "07",
       "question": "情境如附圖所示，工程師使用了弱點掃描軟體來針對公司內部系統進行掃描後，發現了弱點掃描軟體原生報告內指出公司的系統具有一個「CVE-2022-26809 Remote Procedure Call Runtime Remote Code Execution Vulnerability」嚴重風險程度的弱點，攻擊者可將特別製作之遠端程序呼叫（Remote Procedure Call，RPC）傳送至 RPC 主機，即可獲得與 RPC 服務相同之權限，進而於伺服器上遠端執行任意程式碼，該工程師為了處理這個弱點，因此採取了一些的措施來因應，試問採用下列哪些措施較為合適？",
       "group": 1,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/113-2/001.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -1820,7 +1820,7 @@
       "order": "16",
       "question": "情境如附圖所示。2016 年美國銀行當時的首席安全科學家 Sounil Yu 提出了 OWASP CDM (Cyber Defense Matrix)，希望幫助企業盤點目前的防禦機制，並且把盤點結果對應到 NIST CSF 五大類別以及五種企業資產類別。你的主管請你運用 OWASP CDM 的觀念來盤點目前的防禦機制，請問關於 OWASP CDM 描述，下列何項「錯誤」？",
       "group": 2,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/113-2/004.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -1853,7 +1853,7 @@
       "order": "17",
       "question": "情境如附圖所示。你開始透過 OWASP CDM 來制訂後續的改善計畫，請問下列何者描述是正確的？",
       "group": 2,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/113-2/004.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -1886,7 +1886,7 @@
       "order": "18",
       "question": "情境如附圖所示。你的主管對於攻擊者從外網入侵到內網感到很擔憂，想要參考 MITRE ATT&amp;CK 的 Initial Access（初始進入點）類別來減少外網被入侵的範圍、降低機率，請問關於 MITRE ATT&amp;CK 的描述，下列哪些「錯誤」？",
       "group": 2,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/113-2/004.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -2117,7 +2117,7 @@
       "order": "25",
       "question": "情境如附圖所示，發現 Windows 作業系統建置的網站伺服器，該主機上的安全性事件中，查得大量的 4625 事件編號之事件，此事件編號所指的是下列何種事件？",
       "group": 3,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/113-2/007.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -2150,7 +2150,7 @@
       "order": "26",
       "question": "情境如附圖所示，於網站存取 Log 中出現了大量類似密碼的字元“1q2w#E$R”，而前面的欄位中出現了包含 admin, root, jason 等帳號型式的字元，依據這個 log 的內容，以 post 的 http 方法，向/bin_file/tmp/resver.php 傳送了上述的內容，且得到的狀態代碼回應為 200，這種類型的記錄應屬於下列何種攻擊手法？",
       "group": 3,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/113-2/007.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -2183,7 +2183,7 @@
       "order": "27",
       "question": "情境如附圖一所示，本次事件範圍廣泛，涵蓋範圍除了有網站服器主機、網域控制站，而鑑識小組所發現的問題，包含有如附圖二的項目，鑑識小組認為應有網站零日漏洞被利用。請問下列哪 2 項對於員工個人帳號保護最為有效？\u003Cimg src=\"/assets/exam/Protection/113-2/008.png\" class=\"d-block img-thumbnail\"\u003E",
       "group": 3,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/113-2/007.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -2414,7 +2414,7 @@
       "order": "34",
       "question": "情境如附圖所示。根據所發現的原始碼，verifyToken 函數若要實做安全檢查機制，下列何項措施最合適？",
       "group": 4,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/113-2/010.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -2447,7 +2447,7 @@
       "order": "35",
       "question": "情境如附圖所示。根據所發現的原始碼，如要降低 /api/protected 路徑潛在漏洞而危害資料安全，下列何項措施何者最合適？",
       "group": 4,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/113-2/010.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -2480,7 +2480,7 @@
       "order": "36",
       "question": "情境如附圖所示。在你執行完安全檢測並提供相關建議後，開發團隊對程式進行弱點修補並強化了 logLoginAttempt 函數如圖 1，下列哪些描述正確？\u003Cimg src=\"/assets/exam/Protection/113-2/011.png\" class=\"d-block img-thumbnail\"\u003E",
       "group": 4,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/113-2/010.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -2546,7 +2546,7 @@
       "order": "38",
       "question": "情境如附圖所示。滲透測試的外包商在進行檢測時，發現網站根目錄下存在不少的 PHP 檔案，例如有 1111.PHP, Shell.php, probe.php 還發現了一些副檔名為.dump 的檔案，其中有一個檔案開啟後如附圖一所示。請問此檔案為下列何項？\u003Cimg src=\"/assets/exam/Protection/113-2/013.png\" class=\"d-block img-thumbnail\"\u003E",
       "group": 5,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/113-2/012.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -2579,7 +2579,7 @@
       "order": "39",
       "question": "情境如附圖所示。當資料查核到資料庫時，發現資料庫有很大量的合規要求都沒有做到，但要調整設定必須在不影響資料庫的運作的前提下，確認資料庫是否安全，可以透過下列何種方法進行初步的驗證最為合適？",
       "group": 5,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/113-2/012.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -2612,7 +2612,7 @@
       "order": "40",
       "question": "情境如附圖所示。作為跨國企業的資安管理人員，您在進行核心系統滲透測試時發現了外部系統曾被惡意攻擊，並留下攻擊殘餘的指令碼。下列哪些安全風險及處理的描述較為適當？（複選）",
       "group": 5,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/113-2/012.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -2810,7 +2810,7 @@
       "order": "06",
       "question": "【背景描述如附圖】下列何者「不」是利用工具技術偵測應用系統弱點的機制？",
       "group": 1,
-      "groupInformation": null,
+      "groupInformation": "組織內部正在導入相關以技術來審查脆弱性補強的工具，包含作業系統弱點掃描、滲透測試、社交工程等，以下描述是針對這些工具實施之後，相關後續處理的議題。",
       "options": [
         {
           "source": "A",
@@ -2843,7 +2843,7 @@
       "order": "07",
       "question": "【背景描述如附圖】下列何種資產不會產生資訊系統安全弱點暴露的風險，被外界所利用攻擊？",
       "group": 1,
-      "groupInformation": null,
+      "groupInformation": "組織內部正在導入相關以技術來審查脆弱性補強的工具，包含作業系統弱點掃描、滲透測試、社交工程等，以下描述是針對這些工具實施之後，相關後續處理的議題。",
       "options": [
         {
           "source": "A",
@@ -2876,7 +2876,7 @@
       "order": "08",
       "question": "【背景描述如附圖】下列哪些是資訊安全管理系統實施中須考量的系統弱點？",
       "group": 1,
-      "groupInformation": null,
+      "groupInformation": "組織內部正在導入相關以技術來審查脆弱性補強的工具，包含作業系統弱點掃描、滲透測試、社交工程等，以下描述是針對這些工具實施之後，相關後續處理的議題。",
       "options": [
         {
           "source": "A",
@@ -3206,7 +3206,7 @@
       "order": "18",
       "question": "【背景描述如附圖】國際勒索集團公司勒索 5000 萬美金，不然公開該公司機密資料。該勒索集團手法竟是透過公司郵件系統以釣魚郵件方式，讓內部員工執行惡意程式所造成，針對郵件安全防護的技術與手段，下列何項是「非必要」之措施？",
       "group": 2,
-      "groupInformation": null,
+      "groupInformation": "駭客勒索集團入侵年收五百億上市公司，對其重要資料庫系統與研發系統破壞勒索加密，經過相關緊急應變後，費時近半個月才恢復公司正常運營，事後總經理召開檢討會議進行檢討。",
       "options": [
         {
           "source": "A",
@@ -3239,7 +3239,7 @@
       "order": "19",
       "question": "【背景描述如附圖】勒索集團對公司機密資料進行加密，公司 IT 或是資安團隊應採取的應變措施，下列何項較「不」適當？",
       "group": 2,
-      "groupInformation": null,
+      "groupInformation": "駭客勒索集團入侵年收五百億上市公司，對其重要資料庫系統與研發系統破壞勒索加密，經過相關緊急應變後，費時近半個月才恢復公司正常運營，事後總經理召開檢討會議進行檢討。",
       "options": [
         {
           "source": "A",
@@ -3272,7 +3272,7 @@
       "order": "20",
       "question": "【背景描述如附圖】從這次員工電腦因釣魚郵件感染而擴散到不同網段與主機系統，下列哪些是在資安管理制度或防護技術最適宜的措施？",
       "group": 2,
-      "groupInformation": null,
+      "groupInformation": "駭客勒索集團入侵年收五百億上市公司，對其重要資料庫系統與研發系統破壞勒索加密，經過相關緊急應變後，費時近半個月才恢復公司正常運營，事後總經理召開檢討會議進行檢討。",
       "options": [
         {
           "source": "A",
@@ -3470,7 +3470,7 @@
       "order": "26",
       "question": "【背景描述如附圖】本事件可能遭成的後續影響，針對資料被加密，請問主要是破壞了下列哪一項的資安原則？",
       "group": 3,
-      "groupInformation": null,
+      "groupInformation": "王大明剛接下某製造業資安工作，於本週發生了勒索軟體將公司資料加密，並收到歹徒所指示的付款要求。",
       "options": [
         {
           "source": "A",
@@ -3503,7 +3503,7 @@
       "order": "27",
       "question": "【背景描述如附圖】經過調查後，最「不」可能取得網域伺服器的最高權限為下列何項？",
       "group": 3,
-      "groupInformation": null,
+      "groupInformation": "王大明剛接下某製造業資安工作，於本週發生了勒索軟體將公司資料加密，並收到歹徒所指示的付款要求。",
       "options": [
         {
           "source": "A",
@@ -3536,7 +3536,7 @@
       "order": "28",
       "question": "【背景描述如附圖】請問下列哪些是組織可掌握的復原或處理方式？",
       "group": 3,
-      "groupInformation": null,
+      "groupInformation": "王大明剛接下某製造業資安工作，於本週發生了勒索軟體將公司資料加密，並收到歹徒所指示的付款要求。",
       "options": [
         {
           "source": "A",
@@ -3866,7 +3866,7 @@
       "order": "38",
       "question": "【背景描述如附圖】子網域資訊的取得是滲透前重要的 Footprint 程序，下列何項「不」是子網域查找工具？",
       "group": 5,
-      "groupInformation": null,
+      "groupInformation": "網站滲透攻擊是紅隊滲透重要基本課題，而善用網路資源與工具，可以達到事半功倍之效果，身為資安滲透團隊成員，以下相關網路資源與工具，事必須要掌握的技術與技巧。",
       "options": [
         {
           "source": "A",
@@ -3899,7 +3899,7 @@
       "order": "39",
       "question": "【背景描述如附圖】身為一個滲透測試人員，必須善用網際網路有用資料庫或搜尋引擎，下列各類資料庫系統的敘述，何者錯誤？",
       "group": 5,
-      "groupInformation": null,
+      "groupInformation": "網站滲透攻擊是紅隊滲透重要基本課題，而善用網路資源與工具，可以達到事半功倍之效果，身為資安滲透團隊成員，以下相關網路資源與工具，事必須要掌握的技術與技巧。",
       "options": [
         {
           "source": "A",
@@ -3932,7 +3932,7 @@
       "order": "40",
       "question": "【背景描述如附圖】成功滲透到某個網站後，為了避免觸發相關警示而通知 IT 人員，於是採用「免殺（迴避防毒軟體的偵測）」的手法。發現該主機為一台 Windows 10 所搭建網站系統，決定使用 Windows 作業系統中相關工具程式來進行 Command &amp; Control，下面哪些 Windows 作業系統「原生」指令可以使用在遠端下載？",
       "group": 5,
-      "groupInformation": null,
+      "groupInformation": "網站滲透攻擊是紅隊滲透重要基本課題，而善用網路資源與工具，可以達到事半功倍之效果，身為資安滲透團隊成員，以下相關網路資源與工具，事必須要掌握的技術與技巧。",
       "options": [
         {
           "source": "A",
@@ -4097,7 +4097,7 @@
       "order": "05",
       "question": "情境如附圖所示。在瞭解詳細的威脅情況後，第一步你需要與哪一個組織內部團隊合作？",
       "group": 1,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/112-2/001.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -4130,7 +4130,7 @@
       "order": "06",
       "question": "情境如附圖所示。經過分析這個威脅來源是透過郵件附件進行攻擊的，這個攻擊手法對應到 Cyber Kill Chain 的哪一個階段？",
       "group": 1,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/112-2/001.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -4163,7 +4163,7 @@
       "order": "07",
       "question": "情境如附圖所示。承上題，在這樣的情況下，為了提高你的資訊安全防護並防止未來的攻擊，你可以採取下列哪些措施？",
       "group": 1,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/112-2/001.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -4460,7 +4460,7 @@
       "order": "16",
       "question": "情境如附圖所示，承上題，資訊室同仁在導入 ISO 27001 的過程中，目前已經完成「風險評估」，而同仁正在啟動「實施控制」施行對策，你發現同仁跳過了一個管理流程，這個流程是下列何項？",
       "group": 2,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/112-2/002.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -4493,7 +4493,7 @@
       "order": "17",
       "question": "情境如附圖所示，承上題，負責作業安全的同事（OP），在實施資訊安全防護機制時，下列何項你必須提醒該同仁考慮的因素？",
       "group": 2,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/112-2/002.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -4526,7 +4526,7 @@
       "order": "18",
       "question": "情境如附圖所示，承上題，資安小組在設定災難恢復目標時，負責資料備份與事件回應小組無法正確的擬定 RTO（Recovery Time Objective），看來是負責資料備份的同仁誤解了 RTO 的定義，下列哪些是正確的？",
       "group": 2,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/112-2/002.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -5054,7 +5054,7 @@
       "order": "34",
       "question": "情境如附圖所示。API 伺服器上線前可以進行滲透測試、弱點掃描、源碼檢測的敘述，下列何者正確？",
       "group": 4,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/112-2/011.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -5087,7 +5087,7 @@
       "order": "35",
       "question": "情境如附圖所示。在檢測後發現命令注入弱點（Command Injection），請問應採用下列何項進行修復？",
       "group": 4,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/112-2/011.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -5120,7 +5120,7 @@
       "order": "36",
       "question": "情境如附圖所示。資通安全健診除了網路架構檢視外，還包含下列哪些項目？",
       "group": 4,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/112-2/011.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -5186,7 +5186,7 @@
       "order": "38",
       "question": "情境如附圖所示。滲透測試者在報告中提及的本地文件讀取弱點，可能導致下列何項的安全風險？",
       "group": 5,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/112-2/012.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -5219,7 +5219,7 @@
       "order": "39",
       "question": "情境如附圖所示。這個網站是第三方開源套件，以下哪種策略能最有效地防止遠端執行指令的攻擊？",
       "group": 5,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/112-2/012.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -5252,7 +5252,7 @@
       "order": "40",
       "question": "情境如附圖所示。以下哪些安全實踐可以避免當開源的第三方套件存在遠端執行指令稿攻擊？",
       "group": 5,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/112-2/012.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -5978,7 +5978,7 @@
       "order": "22",
       "question": "【背景描述如附圖】製造執行系統（Manufacturing Execution System, MES）廠商回覆既有系統只能在原 Windows XP 作業系統下才能正常運行，而且不能安裝最新的防毒軟體，作業上辦公室僅有一台電腦會到 MES 去更新生產資料，以及廠商可能不定期遠端協助檢查作業問題，其他作業皆在工廠端直接操作相關系統，參如前述規劃資安防護事項，下列選項何者最符合提升工廠的 OT 系統與設施的防護？",
       "group": 1,
-      "groupInformation": null,
+      "groupInformation": "一家小型加工品代工製造商，應下游終端產品客戶要求必須提升資安防護，達到供應鏈安全的要求，盤點公司目前的連網架構參如下圖，而且各主機與個人電腦建置後也未進行版本更新，檢附本次資安健測結果摘要如下。\r\n\u003Cimg src=\"/assets/exam/Protection/111/002.png\" class=\"d-block img-thumbnail mb-3\"\u003E\r\n擬規劃資安防護事項：\r\n\u003Ctable class=\"table table-borderless\"\u003E\r\n  \u003Ctbody\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd\u003E\r\n        \u003Cspan class=\"me-2\"\u003EA.\u003C/span\u003E\r\n        \u003Cspan\u003E增設防火牆與 VPN 連線\u003C/span\u003E\r\n      \u003C/td\u003E\r\n      \u003Ctd\u003E\r\n        \u003Cspan class=\"me-2\"\u003EG.\u003C/span\u003E\r\n        \u003Cspan\u003E更新 ERP 主機\u003C/span\u003E\r\n      \u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd\u003E\r\n        \u003Cspan class=\"me-2\"\u003EB.\u003C/span\u003E\r\n        \u003Cspan\u003E設置資訊機房的 DMZ 區\u003C/span\u003E\r\n      \u003C/td\u003E\r\n      \u003Ctd\u003E\r\n        \u003Cspan class=\"me-2\"\u003EH.\u003C/span\u003E\r\n        \u003Cspan\u003E更新 Mail 主機\u003C/span\u003E\r\n      \u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd\u003E\r\n        \u003Cspan class=\"me-2\"\u003EC.\u003C/span\u003E\r\n        \u003Cspan\u003E設置工廠的 DMZ 區\u003C/span\u003E\r\n      \u003C/td\u003E\r\n      \u003Ctd\u003E\r\n        \u003Cspan class=\"me-2\"\u003EI.\u003C/span\u003E\r\n        \u003Cspan\u003E更新 MES 主機\u003C/span\u003E\r\n      \u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd\u003E\r\n        \u003Cspan class=\"me-2\"\u003ED.\u003C/span\u003E\r\n        \u003Cspan\u003E更新所有 PC\u003C/span\u003E\r\n      \u003C/td\u003E\r\n      \u003Ctd\u003E\r\n        \u003Cspan class=\"me-2\"\u003EJ.\u003C/span\u003E\r\n        \u003Cspan\u003E更新 SVR3 主機\u003C/span\u003E\r\n      \u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd\u003E\r\n        \u003Cspan class=\"me-2\"\u003EE.\u003C/span\u003E\r\n        \u003Cspan\u003E主機與 PC 安裝防毒軟體\u003C/span\u003E\r\n      \u003C/td\u003E\r\n      \u003Ctd\u003E\r\n        \u003Cspan class=\"me-2\"\u003EK.\u003C/span\u003E\r\n        \u003Cspan\u003E關閉 SVR3 共享目錄\u003C/span\u003E\r\n      \u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd\u003E\r\n        \u003Cspan class=\"me-2\"\u003EF.\u003C/span\u003E\r\n        \u003Cspan\u003E限制 MES 的連接來源位置\u003C/span\u003E\r\n      \u003C/td\u003E\r\n      \u003Ctd\u003E\r\n        \u003Cspan class=\"me-2\"\u003EL.\u003C/span\u003E\r\n        \u003Cspan\u003E共享目錄設定存取權限\u003C/span\u003E\r\n      \u003C/td\u003E\r\n    \u003C/tr\u003E\r\n  \u003C/tbody\u003E\r\n\u003C/table\u003E\r\n弱點偵測掃瞄報告摘要如下：\r\n\u003Ctable class=\"table table-bordered\"\u003E\r\n  \u003Ctbody\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd class=\"py-0\"\u003E\r\n        \u003Cimg src=\"/assets/exam/Protection/111/003.png\"\u003E\r\n      \u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd\u003E192.168.1.60\u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd class=\"p-0\"\u003E\r\n        \u003Ctable class=\"table table-sm table-bordered mb-0\"\u003E\r\n          \u003Cthead class=\"table-secondary\"\u003E\r\n            \u003Ctr\u003E\r\n              \u003Cth\u003ESeverity\u003C/th\u003E\r\n              \u003Cth\u003ECVSS\u003C/th\u003E\r\n              \u003Cth class=\"w-75\"\u003EName\u003C/th\u003E\r\n            \u003C/tr\u003E\r\n          \u003C/thead\u003E\r\n          \u003Ctbody\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-danger\"\u003ECRITICAL\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E10.0\u003C/td\u003E\r\n              \u003Ctd\u003EMicrosoft RDP RCE （CVE-2019-0708） （BlueKeep） （uncredentialed check）\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-orange\"\u003EHIGH\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E7.5\u003C/td\u003E\r\n              \u003Ctd\u003EMicrosoft Windows SMB Shares Unprivileged Access\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-orange\"\u003EHIGH\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E7.5\u003C/td\u003E\r\n              \u003Ctd\u003EUnsupported Web Server Detection\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-warning\"\u003EMEDIUM\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E6.4\u003C/td\u003E\r\n              \u003Ctd\u003ESSL Certificate Cannot Be Trusted\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-warning\"\u003EMEDIUM\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E5.1\u003C/td\u003E\r\n              \u003Ctd\u003EMicrosoft Windows Remote Desktop Protocol Server Man-in-the-Middle Weakness\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-warning\"\u003EMEDIUM\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E4.3\u003C/td\u003E\r\n              \u003Ctd\u003ETerminal Services Encryption Level is Medium or Low\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-success\"\u003ELOW\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E2.6\u003C/td\u003E\r\n              \u003Ctd\u003ESSL RC4 Cipher Suites Supported （Bar Mitzvah）\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-primary\"\u003EINFO\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003EN/A\u003C/td\u003E\r\n              \u003Ctd\u003EFTP Server Detection\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-primary\"\u003EINFO\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003EN/A\u003C/td\u003E\r\n              \u003Ctd\u003EMicrosoft Windows SMB Service Detection\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n          \u003C/tbody\u003E\r\n        \u003C/table\u003E\r\n      \u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd\u003E192.168.1.100\u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd class=\"p-0\"\u003E\r\n        \u003Ctable class=\"table table-sm table-bordered mb-0\"\u003E\r\n          \u003Cthead class=\"table-secondary\"\u003E\r\n            \u003Ctr\u003E\r\n              \u003Cth\u003ESeverity\u003C/th\u003E\r\n              \u003Cth\u003ECVSS\u003C/th\u003E\r\n              \u003Cth class=\"w-75\"\u003EName\u003C/th\u003E\r\n            \u003C/tr\u003E\r\n          \u003C/thead\u003E\r\n          \u003Ctbody\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-danger\"\u003ECRITICAL\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E10.0\u003C/td\u003E\r\n              \u003Ctd\u003EMicrosoft RDP RCE （CVE-2019-0708） （BlueKeep） （uncredentialed check）\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-orange\"\u003EHIGH\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E7.5\u003C/td\u003E\r\n              \u003Ctd\u003ESSL version 2 Protocol Detection\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-orange\"\u003EHIGH\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E7.5\u003C/td\u003E\r\n              \u003Ctd\u003ESNMP Agent Default Community Name （public）\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-warning\"\u003EMEDIUM\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E6.4\u003C/td\u003E\r\n              \u003Ctd\u003ESSL Self-Signed Certificate\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-warning\"\u003EMEDIUM\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E5.0\u003C/td\u003E\r\n              \u003Ctd\u003ESMB Signing not required\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-success\"\u003ELOW\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E2.6\u003C/td\u003E\r\n              \u003Ctd\u003ESSL/TLS Diffie-Hellman Modulus &lt;= 1024 Bits （Logjam）\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-primary\"\u003EINFO\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003EN/A\u003C/td\u003E\r\n              \u003Ctd\u003EHTTP Server Type and Version\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n          \u003C/tbody\u003E\r\n        \u003C/table\u003E\r\n      \u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd\u003E192.168.1.101\u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd class=\"p-0\"\u003E\r\n        \u003Ctable class=\"table table-sm table-bordered mb-0\"\u003E\r\n          \u003Cthead class=\"table-secondary\"\u003E\r\n            \u003Ctr\u003E\r\n              \u003Cth\u003ESeverity\u003C/th\u003E\r\n              \u003Cth\u003ECVSS\u003C/th\u003E\r\n              \u003Cth class=\"w-75\"\u003EName\u003C/th\u003E\r\n            \u003C/tr\u003E\r\n          \u003C/thead\u003E\r\n          \u003Ctbody\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-warning\"\u003EMEDIUM\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E6.4\u003C/td\u003E\r\n              \u003Ctd\u003ESSL Certificate Cannot Be Trusted\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-warning\"\u003EMEDIUM\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E5.0\u003C/td\u003E\r\n              \u003Ctd\u003EHTTP TRACE / TRACK Methods Allowed\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-warning\"\u003EMEDIUM\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E5.0\u003C/td\u003E\r\n              \u003Ctd\u003ESMB Signing not required\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-success\"\u003ELOW\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E2.6\u003C/td\u003E\r\n              \u003Ctd\u003ESSH Server CBC Mode Ciphers Enabled\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-primary\"\u003EINFO\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003EN/A\u003C/td\u003E\r\n              \u003Ctd\u003EMicrosoft Windows SMB Service Detection\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n          \u003C/tbody\u003E\r\n        \u003C/table\u003E\r\n      \u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd\u003E192.168.1.102\u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd class=\"p-0\"\u003E\r\n        \u003Ctable class=\"table table-sm table-bordered mb-0\"\u003E\r\n          \u003Cthead class=\"table-secondary\"\u003E\r\n            \u003Ctr\u003E\r\n              \u003Cth\u003ESeverity\u003C/th\u003E\r\n              \u003Cth\u003ECVSS\u003C/th\u003E\r\n              \u003Cth class=\"w-75\"\u003EName\u003C/th\u003E\r\n            \u003C/tr\u003E\r\n          \u003C/thead\u003E\r\n          \u003Ctbody\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-warning\"\u003EMEDIUM\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E5.1\u003C/td\u003E\r\n              \u003Ctd\u003EMicrosoft Windows Remote Desktop Protocol Server Man-in-the-Middle Weakness\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-primary\"\u003EINFO\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003EN/A\u003C/td\u003E\r\n              \u003Ctd\u003EWindows NetBIOS / SMB Remote Host Information Disclosure\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-primary\"\u003EINFO\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003EN/A\u003C/td\u003E\r\n              \u003Ctd\u003EWindows Terminal Services Enabled\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n          \u003C/tbody\u003E\r\n        \u003C/table\u003E\r\n      \u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd\u003E192.168.1.103\u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd class=\"p-0\"\u003E\r\n        \u003Ctable class=\"table table-sm table-bordered mb-0\"\u003E\r\n          \u003Cthead class=\"table-secondary\"\u003E\r\n            \u003Ctr\u003E\r\n              \u003Cth\u003ESeverity\u003C/th\u003E\r\n              \u003Cth\u003ECVSS\u003C/th\u003E\r\n              \u003Cth class=\"w-75\"\u003EName\u003C/th\u003E\r\n            \u003C/tr\u003E\r\n          \u003C/thead\u003E\r\n          \u003Ctbody\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-warning\"\u003EMEDIUM\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E5.1\u003C/td\u003E\r\n              \u003Ctd\u003EMicrosoft Windows Remote Desktop Protocol Server Man-in-the-Middle Weakness\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-warning\"\u003EMEDIUM\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E4.3\u003C/td\u003E\r\n              \u003Ctd\u003ETerminal Services Encryption Level is Medium or Low\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-primary\"\u003EINFO\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003EN/A\u003C/td\u003E\r\n              \u003Ctd\u003ETraceroute Information\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-primary\"\u003EINFO\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003EN/A\u003C/td\u003E\r\n              \u003Ctd\u003EHTTP Methods Allowed （per directory）\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n          \u003C/tbody\u003E\r\n        \u003C/table\u003E\r\n      \u003C/td\u003E\r\n    \u003C/tr\u003E\r\n  \u003C/tbody\u003E\r\n\u003C/table\u003E\r\n公司內部網路共享資源掃瞄結果摘要如下：\r\n\u003Cimg src=\"/assets/exam/Protection/111/004.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -6011,7 +6011,7 @@
       "order": "23",
       "question": "【背景描述如附圖】針對辦公室的工作環境，為了有效減少內部安全漏洞，參如前述規劃資安防護事項，下列選項何者防禦措施為最佳？",
       "group": 1,
-      "groupInformation": null,
+      "groupInformation": "一家小型加工品代工製造商，應下游終端產品客戶要求必須提升資安防護，達到供應鏈安全的要求，盤點公司目前的連網架構參如下圖，而且各主機與個人電腦建置後也未進行版本更新，檢附本次資安健測結果摘要如下。\r\n\u003Cimg src=\"/assets/exam/Protection/111/002.png\" class=\"d-block img-thumbnail mb-3\"\u003E\r\n擬規劃資安防護事項：\r\n\u003Ctable class=\"table table-borderless\"\u003E\r\n  \u003Ctbody\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd\u003E\r\n        \u003Cspan class=\"me-2\"\u003EA.\u003C/span\u003E\r\n        \u003Cspan\u003E增設防火牆與 VPN 連線\u003C/span\u003E\r\n      \u003C/td\u003E\r\n      \u003Ctd\u003E\r\n        \u003Cspan class=\"me-2\"\u003EG.\u003C/span\u003E\r\n        \u003Cspan\u003E更新 ERP 主機\u003C/span\u003E\r\n      \u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd\u003E\r\n        \u003Cspan class=\"me-2\"\u003EB.\u003C/span\u003E\r\n        \u003Cspan\u003E設置資訊機房的 DMZ 區\u003C/span\u003E\r\n      \u003C/td\u003E\r\n      \u003Ctd\u003E\r\n        \u003Cspan class=\"me-2\"\u003EH.\u003C/span\u003E\r\n        \u003Cspan\u003E更新 Mail 主機\u003C/span\u003E\r\n      \u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd\u003E\r\n        \u003Cspan class=\"me-2\"\u003EC.\u003C/span\u003E\r\n        \u003Cspan\u003E設置工廠的 DMZ 區\u003C/span\u003E\r\n      \u003C/td\u003E\r\n      \u003Ctd\u003E\r\n        \u003Cspan class=\"me-2\"\u003EI.\u003C/span\u003E\r\n        \u003Cspan\u003E更新 MES 主機\u003C/span\u003E\r\n      \u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd\u003E\r\n        \u003Cspan class=\"me-2\"\u003ED.\u003C/span\u003E\r\n        \u003Cspan\u003E更新所有 PC\u003C/span\u003E\r\n      \u003C/td\u003E\r\n      \u003Ctd\u003E\r\n        \u003Cspan class=\"me-2\"\u003EJ.\u003C/span\u003E\r\n        \u003Cspan\u003E更新 SVR3 主機\u003C/span\u003E\r\n      \u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd\u003E\r\n        \u003Cspan class=\"me-2\"\u003EE.\u003C/span\u003E\r\n        \u003Cspan\u003E主機與 PC 安裝防毒軟體\u003C/span\u003E\r\n      \u003C/td\u003E\r\n      \u003Ctd\u003E\r\n        \u003Cspan class=\"me-2\"\u003EK.\u003C/span\u003E\r\n        \u003Cspan\u003E關閉 SVR3 共享目錄\u003C/span\u003E\r\n      \u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd\u003E\r\n        \u003Cspan class=\"me-2\"\u003EF.\u003C/span\u003E\r\n        \u003Cspan\u003E限制 MES 的連接來源位置\u003C/span\u003E\r\n      \u003C/td\u003E\r\n      \u003Ctd\u003E\r\n        \u003Cspan class=\"me-2\"\u003EL.\u003C/span\u003E\r\n        \u003Cspan\u003E共享目錄設定存取權限\u003C/span\u003E\r\n      \u003C/td\u003E\r\n    \u003C/tr\u003E\r\n  \u003C/tbody\u003E\r\n\u003C/table\u003E\r\n弱點偵測掃瞄報告摘要如下：\r\n\u003Ctable class=\"table table-bordered\"\u003E\r\n  \u003Ctbody\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd class=\"py-0\"\u003E\r\n        \u003Cimg src=\"/assets/exam/Protection/111/003.png\"\u003E\r\n      \u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd\u003E192.168.1.60\u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd class=\"p-0\"\u003E\r\n        \u003Ctable class=\"table table-sm table-bordered mb-0\"\u003E\r\n          \u003Cthead class=\"table-secondary\"\u003E\r\n            \u003Ctr\u003E\r\n              \u003Cth\u003ESeverity\u003C/th\u003E\r\n              \u003Cth\u003ECVSS\u003C/th\u003E\r\n              \u003Cth class=\"w-75\"\u003EName\u003C/th\u003E\r\n            \u003C/tr\u003E\r\n          \u003C/thead\u003E\r\n          \u003Ctbody\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-danger\"\u003ECRITICAL\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E10.0\u003C/td\u003E\r\n              \u003Ctd\u003EMicrosoft RDP RCE （CVE-2019-0708） （BlueKeep） （uncredentialed check）\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-orange\"\u003EHIGH\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E7.5\u003C/td\u003E\r\n              \u003Ctd\u003EMicrosoft Windows SMB Shares Unprivileged Access\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-orange\"\u003EHIGH\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E7.5\u003C/td\u003E\r\n              \u003Ctd\u003EUnsupported Web Server Detection\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-warning\"\u003EMEDIUM\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E6.4\u003C/td\u003E\r\n              \u003Ctd\u003ESSL Certificate Cannot Be Trusted\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-warning\"\u003EMEDIUM\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E5.1\u003C/td\u003E\r\n              \u003Ctd\u003EMicrosoft Windows Remote Desktop Protocol Server Man-in-the-Middle Weakness\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-warning\"\u003EMEDIUM\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E4.3\u003C/td\u003E\r\n              \u003Ctd\u003ETerminal Services Encryption Level is Medium or Low\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-success\"\u003ELOW\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E2.6\u003C/td\u003E\r\n              \u003Ctd\u003ESSL RC4 Cipher Suites Supported （Bar Mitzvah）\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-primary\"\u003EINFO\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003EN/A\u003C/td\u003E\r\n              \u003Ctd\u003EFTP Server Detection\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-primary\"\u003EINFO\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003EN/A\u003C/td\u003E\r\n              \u003Ctd\u003EMicrosoft Windows SMB Service Detection\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n          \u003C/tbody\u003E\r\n        \u003C/table\u003E\r\n      \u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd\u003E192.168.1.100\u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd class=\"p-0\"\u003E\r\n        \u003Ctable class=\"table table-sm table-bordered mb-0\"\u003E\r\n          \u003Cthead class=\"table-secondary\"\u003E\r\n            \u003Ctr\u003E\r\n              \u003Cth\u003ESeverity\u003C/th\u003E\r\n              \u003Cth\u003ECVSS\u003C/th\u003E\r\n              \u003Cth class=\"w-75\"\u003EName\u003C/th\u003E\r\n            \u003C/tr\u003E\r\n          \u003C/thead\u003E\r\n          \u003Ctbody\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-danger\"\u003ECRITICAL\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E10.0\u003C/td\u003E\r\n              \u003Ctd\u003EMicrosoft RDP RCE （CVE-2019-0708） （BlueKeep） （uncredentialed check）\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-orange\"\u003EHIGH\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E7.5\u003C/td\u003E\r\n              \u003Ctd\u003ESSL version 2 Protocol Detection\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-orange\"\u003EHIGH\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E7.5\u003C/td\u003E\r\n              \u003Ctd\u003ESNMP Agent Default Community Name （public）\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-warning\"\u003EMEDIUM\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E6.4\u003C/td\u003E\r\n              \u003Ctd\u003ESSL Self-Signed Certificate\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-warning\"\u003EMEDIUM\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E5.0\u003C/td\u003E\r\n              \u003Ctd\u003ESMB Signing not required\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-success\"\u003ELOW\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E2.6\u003C/td\u003E\r\n              \u003Ctd\u003ESSL/TLS Diffie-Hellman Modulus &lt;= 1024 Bits （Logjam）\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-primary\"\u003EINFO\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003EN/A\u003C/td\u003E\r\n              \u003Ctd\u003EHTTP Server Type and Version\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n          \u003C/tbody\u003E\r\n        \u003C/table\u003E\r\n      \u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd\u003E192.168.1.101\u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd class=\"p-0\"\u003E\r\n        \u003Ctable class=\"table table-sm table-bordered mb-0\"\u003E\r\n          \u003Cthead class=\"table-secondary\"\u003E\r\n            \u003Ctr\u003E\r\n              \u003Cth\u003ESeverity\u003C/th\u003E\r\n              \u003Cth\u003ECVSS\u003C/th\u003E\r\n              \u003Cth class=\"w-75\"\u003EName\u003C/th\u003E\r\n            \u003C/tr\u003E\r\n          \u003C/thead\u003E\r\n          \u003Ctbody\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-warning\"\u003EMEDIUM\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E6.4\u003C/td\u003E\r\n              \u003Ctd\u003ESSL Certificate Cannot Be Trusted\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-warning\"\u003EMEDIUM\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E5.0\u003C/td\u003E\r\n              \u003Ctd\u003EHTTP TRACE / TRACK Methods Allowed\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-warning\"\u003EMEDIUM\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E5.0\u003C/td\u003E\r\n              \u003Ctd\u003ESMB Signing not required\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-success\"\u003ELOW\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E2.6\u003C/td\u003E\r\n              \u003Ctd\u003ESSH Server CBC Mode Ciphers Enabled\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-primary\"\u003EINFO\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003EN/A\u003C/td\u003E\r\n              \u003Ctd\u003EMicrosoft Windows SMB Service Detection\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n          \u003C/tbody\u003E\r\n        \u003C/table\u003E\r\n      \u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd\u003E192.168.1.102\u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd class=\"p-0\"\u003E\r\n        \u003Ctable class=\"table table-sm table-bordered mb-0\"\u003E\r\n          \u003Cthead class=\"table-secondary\"\u003E\r\n            \u003Ctr\u003E\r\n              \u003Cth\u003ESeverity\u003C/th\u003E\r\n              \u003Cth\u003ECVSS\u003C/th\u003E\r\n              \u003Cth class=\"w-75\"\u003EName\u003C/th\u003E\r\n            \u003C/tr\u003E\r\n          \u003C/thead\u003E\r\n          \u003Ctbody\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-warning\"\u003EMEDIUM\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E5.1\u003C/td\u003E\r\n              \u003Ctd\u003EMicrosoft Windows Remote Desktop Protocol Server Man-in-the-Middle Weakness\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-primary\"\u003EINFO\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003EN/A\u003C/td\u003E\r\n              \u003Ctd\u003EWindows NetBIOS / SMB Remote Host Information Disclosure\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-primary\"\u003EINFO\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003EN/A\u003C/td\u003E\r\n              \u003Ctd\u003EWindows Terminal Services Enabled\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n          \u003C/tbody\u003E\r\n        \u003C/table\u003E\r\n      \u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd\u003E192.168.1.103\u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd class=\"p-0\"\u003E\r\n        \u003Ctable class=\"table table-sm table-bordered mb-0\"\u003E\r\n          \u003Cthead class=\"table-secondary\"\u003E\r\n            \u003Ctr\u003E\r\n              \u003Cth\u003ESeverity\u003C/th\u003E\r\n              \u003Cth\u003ECVSS\u003C/th\u003E\r\n              \u003Cth class=\"w-75\"\u003EName\u003C/th\u003E\r\n            \u003C/tr\u003E\r\n          \u003C/thead\u003E\r\n          \u003Ctbody\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-warning\"\u003EMEDIUM\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E5.1\u003C/td\u003E\r\n              \u003Ctd\u003EMicrosoft Windows Remote Desktop Protocol Server Man-in-the-Middle Weakness\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-warning\"\u003EMEDIUM\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E4.3\u003C/td\u003E\r\n              \u003Ctd\u003ETerminal Services Encryption Level is Medium or Low\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-primary\"\u003EINFO\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003EN/A\u003C/td\u003E\r\n              \u003Ctd\u003ETraceroute Information\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-primary\"\u003EINFO\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003EN/A\u003C/td\u003E\r\n              \u003Ctd\u003EHTTP Methods Allowed （per directory）\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n          \u003C/tbody\u003E\r\n        \u003C/table\u003E\r\n      \u003C/td\u003E\r\n    \u003C/tr\u003E\r\n  \u003C/tbody\u003E\r\n\u003C/table\u003E\r\n公司內部網路共享資源掃瞄結果摘要如下：\r\n\u003Cimg src=\"/assets/exam/Protection/111/004.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -6044,7 +6044,7 @@
       "order": "24",
       "question": "【背景描述如附圖】承附圖架構與需求，請問該公司新設的防火牆「不」應該建立以上哪些安全規則選項？（複選）增設防火牆規劃以下安全規則，且辦公室網路擬定為 LAN，資訊機房將分隔為 DMZ 區，工廠設備將改址為獨立的 OT 區，並且在防火牆管理 VPN 外部連線與指定出 MES &amp; ERP 主機位置。",
       "group": 1,
-      "groupInformation": null,
+      "groupInformation": "一家小型加工品代工製造商，應下游終端產品客戶要求必須提升資安防護，達到供應鏈安全的要求，盤點公司目前的連網架構參如下圖，而且各主機與個人電腦建置後也未進行版本更新，檢附本次資安健測結果摘要如下。\r\n\u003Cimg src=\"/assets/exam/Protection/111/002.png\" class=\"d-block img-thumbnail mb-3\"\u003E\r\n擬規劃資安防護事項：\r\n\u003Ctable class=\"table table-borderless\"\u003E\r\n  \u003Ctbody\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd\u003E\r\n        \u003Cspan class=\"me-2\"\u003EA.\u003C/span\u003E\r\n        \u003Cspan\u003E增設防火牆與 VPN 連線\u003C/span\u003E\r\n      \u003C/td\u003E\r\n      \u003Ctd\u003E\r\n        \u003Cspan class=\"me-2\"\u003EG.\u003C/span\u003E\r\n        \u003Cspan\u003E更新 ERP 主機\u003C/span\u003E\r\n      \u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd\u003E\r\n        \u003Cspan class=\"me-2\"\u003EB.\u003C/span\u003E\r\n        \u003Cspan\u003E設置資訊機房的 DMZ 區\u003C/span\u003E\r\n      \u003C/td\u003E\r\n      \u003Ctd\u003E\r\n        \u003Cspan class=\"me-2\"\u003EH.\u003C/span\u003E\r\n        \u003Cspan\u003E更新 Mail 主機\u003C/span\u003E\r\n      \u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd\u003E\r\n        \u003Cspan class=\"me-2\"\u003EC.\u003C/span\u003E\r\n        \u003Cspan\u003E設置工廠的 DMZ 區\u003C/span\u003E\r\n      \u003C/td\u003E\r\n      \u003Ctd\u003E\r\n        \u003Cspan class=\"me-2\"\u003EI.\u003C/span\u003E\r\n        \u003Cspan\u003E更新 MES 主機\u003C/span\u003E\r\n      \u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd\u003E\r\n        \u003Cspan class=\"me-2\"\u003ED.\u003C/span\u003E\r\n        \u003Cspan\u003E更新所有 PC\u003C/span\u003E\r\n      \u003C/td\u003E\r\n      \u003Ctd\u003E\r\n        \u003Cspan class=\"me-2\"\u003EJ.\u003C/span\u003E\r\n        \u003Cspan\u003E更新 SVR3 主機\u003C/span\u003E\r\n      \u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd\u003E\r\n        \u003Cspan class=\"me-2\"\u003EE.\u003C/span\u003E\r\n        \u003Cspan\u003E主機與 PC 安裝防毒軟體\u003C/span\u003E\r\n      \u003C/td\u003E\r\n      \u003Ctd\u003E\r\n        \u003Cspan class=\"me-2\"\u003EK.\u003C/span\u003E\r\n        \u003Cspan\u003E關閉 SVR3 共享目錄\u003C/span\u003E\r\n      \u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd\u003E\r\n        \u003Cspan class=\"me-2\"\u003EF.\u003C/span\u003E\r\n        \u003Cspan\u003E限制 MES 的連接來源位置\u003C/span\u003E\r\n      \u003C/td\u003E\r\n      \u003Ctd\u003E\r\n        \u003Cspan class=\"me-2\"\u003EL.\u003C/span\u003E\r\n        \u003Cspan\u003E共享目錄設定存取權限\u003C/span\u003E\r\n      \u003C/td\u003E\r\n    \u003C/tr\u003E\r\n  \u003C/tbody\u003E\r\n\u003C/table\u003E\r\n弱點偵測掃瞄報告摘要如下：\r\n\u003Ctable class=\"table table-bordered\"\u003E\r\n  \u003Ctbody\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd class=\"py-0\"\u003E\r\n        \u003Cimg src=\"/assets/exam/Protection/111/003.png\"\u003E\r\n      \u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd\u003E192.168.1.60\u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd class=\"p-0\"\u003E\r\n        \u003Ctable class=\"table table-sm table-bordered mb-0\"\u003E\r\n          \u003Cthead class=\"table-secondary\"\u003E\r\n            \u003Ctr\u003E\r\n              \u003Cth\u003ESeverity\u003C/th\u003E\r\n              \u003Cth\u003ECVSS\u003C/th\u003E\r\n              \u003Cth class=\"w-75\"\u003EName\u003C/th\u003E\r\n            \u003C/tr\u003E\r\n          \u003C/thead\u003E\r\n          \u003Ctbody\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-danger\"\u003ECRITICAL\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E10.0\u003C/td\u003E\r\n              \u003Ctd\u003EMicrosoft RDP RCE （CVE-2019-0708） （BlueKeep） （uncredentialed check）\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-orange\"\u003EHIGH\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E7.5\u003C/td\u003E\r\n              \u003Ctd\u003EMicrosoft Windows SMB Shares Unprivileged Access\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-orange\"\u003EHIGH\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E7.5\u003C/td\u003E\r\n              \u003Ctd\u003EUnsupported Web Server Detection\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-warning\"\u003EMEDIUM\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E6.4\u003C/td\u003E\r\n              \u003Ctd\u003ESSL Certificate Cannot Be Trusted\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-warning\"\u003EMEDIUM\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E5.1\u003C/td\u003E\r\n              \u003Ctd\u003EMicrosoft Windows Remote Desktop Protocol Server Man-in-the-Middle Weakness\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-warning\"\u003EMEDIUM\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E4.3\u003C/td\u003E\r\n              \u003Ctd\u003ETerminal Services Encryption Level is Medium or Low\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-success\"\u003ELOW\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E2.6\u003C/td\u003E\r\n              \u003Ctd\u003ESSL RC4 Cipher Suites Supported （Bar Mitzvah）\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-primary\"\u003EINFO\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003EN/A\u003C/td\u003E\r\n              \u003Ctd\u003EFTP Server Detection\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-primary\"\u003EINFO\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003EN/A\u003C/td\u003E\r\n              \u003Ctd\u003EMicrosoft Windows SMB Service Detection\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n          \u003C/tbody\u003E\r\n        \u003C/table\u003E\r\n      \u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd\u003E192.168.1.100\u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd class=\"p-0\"\u003E\r\n        \u003Ctable class=\"table table-sm table-bordered mb-0\"\u003E\r\n          \u003Cthead class=\"table-secondary\"\u003E\r\n            \u003Ctr\u003E\r\n              \u003Cth\u003ESeverity\u003C/th\u003E\r\n              \u003Cth\u003ECVSS\u003C/th\u003E\r\n              \u003Cth class=\"w-75\"\u003EName\u003C/th\u003E\r\n            \u003C/tr\u003E\r\n          \u003C/thead\u003E\r\n          \u003Ctbody\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-danger\"\u003ECRITICAL\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E10.0\u003C/td\u003E\r\n              \u003Ctd\u003EMicrosoft RDP RCE （CVE-2019-0708） （BlueKeep） （uncredentialed check）\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-orange\"\u003EHIGH\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E7.5\u003C/td\u003E\r\n              \u003Ctd\u003ESSL version 2 Protocol Detection\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-orange\"\u003EHIGH\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E7.5\u003C/td\u003E\r\n              \u003Ctd\u003ESNMP Agent Default Community Name （public）\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-warning\"\u003EMEDIUM\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E6.4\u003C/td\u003E\r\n              \u003Ctd\u003ESSL Self-Signed Certificate\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-warning\"\u003EMEDIUM\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E5.0\u003C/td\u003E\r\n              \u003Ctd\u003ESMB Signing not required\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-success\"\u003ELOW\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E2.6\u003C/td\u003E\r\n              \u003Ctd\u003ESSL/TLS Diffie-Hellman Modulus &lt;= 1024 Bits （Logjam）\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-primary\"\u003EINFO\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003EN/A\u003C/td\u003E\r\n              \u003Ctd\u003EHTTP Server Type and Version\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n          \u003C/tbody\u003E\r\n        \u003C/table\u003E\r\n      \u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd\u003E192.168.1.101\u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd class=\"p-0\"\u003E\r\n        \u003Ctable class=\"table table-sm table-bordered mb-0\"\u003E\r\n          \u003Cthead class=\"table-secondary\"\u003E\r\n            \u003Ctr\u003E\r\n              \u003Cth\u003ESeverity\u003C/th\u003E\r\n              \u003Cth\u003ECVSS\u003C/th\u003E\r\n              \u003Cth class=\"w-75\"\u003EName\u003C/th\u003E\r\n            \u003C/tr\u003E\r\n          \u003C/thead\u003E\r\n          \u003Ctbody\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-warning\"\u003EMEDIUM\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E6.4\u003C/td\u003E\r\n              \u003Ctd\u003ESSL Certificate Cannot Be Trusted\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-warning\"\u003EMEDIUM\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E5.0\u003C/td\u003E\r\n              \u003Ctd\u003EHTTP TRACE / TRACK Methods Allowed\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-warning\"\u003EMEDIUM\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E5.0\u003C/td\u003E\r\n              \u003Ctd\u003ESMB Signing not required\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-success\"\u003ELOW\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E2.6\u003C/td\u003E\r\n              \u003Ctd\u003ESSH Server CBC Mode Ciphers Enabled\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-primary\"\u003EINFO\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003EN/A\u003C/td\u003E\r\n              \u003Ctd\u003EMicrosoft Windows SMB Service Detection\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n          \u003C/tbody\u003E\r\n        \u003C/table\u003E\r\n      \u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd\u003E192.168.1.102\u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd class=\"p-0\"\u003E\r\n        \u003Ctable class=\"table table-sm table-bordered mb-0\"\u003E\r\n          \u003Cthead class=\"table-secondary\"\u003E\r\n            \u003Ctr\u003E\r\n              \u003Cth\u003ESeverity\u003C/th\u003E\r\n              \u003Cth\u003ECVSS\u003C/th\u003E\r\n              \u003Cth class=\"w-75\"\u003EName\u003C/th\u003E\r\n            \u003C/tr\u003E\r\n          \u003C/thead\u003E\r\n          \u003Ctbody\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-warning\"\u003EMEDIUM\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E5.1\u003C/td\u003E\r\n              \u003Ctd\u003EMicrosoft Windows Remote Desktop Protocol Server Man-in-the-Middle Weakness\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-primary\"\u003EINFO\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003EN/A\u003C/td\u003E\r\n              \u003Ctd\u003EWindows NetBIOS / SMB Remote Host Information Disclosure\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-primary\"\u003EINFO\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003EN/A\u003C/td\u003E\r\n              \u003Ctd\u003EWindows Terminal Services Enabled\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n          \u003C/tbody\u003E\r\n        \u003C/table\u003E\r\n      \u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd\u003E192.168.1.103\u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd class=\"p-0\"\u003E\r\n        \u003Ctable class=\"table table-sm table-bordered mb-0\"\u003E\r\n          \u003Cthead class=\"table-secondary\"\u003E\r\n            \u003Ctr\u003E\r\n              \u003Cth\u003ESeverity\u003C/th\u003E\r\n              \u003Cth\u003ECVSS\u003C/th\u003E\r\n              \u003Cth class=\"w-75\"\u003EName\u003C/th\u003E\r\n            \u003C/tr\u003E\r\n          \u003C/thead\u003E\r\n          \u003Ctbody\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-warning\"\u003EMEDIUM\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E5.1\u003C/td\u003E\r\n              \u003Ctd\u003EMicrosoft Windows Remote Desktop Protocol Server Man-in-the-Middle Weakness\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-warning\"\u003EMEDIUM\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003E4.3\u003C/td\u003E\r\n              \u003Ctd\u003ETerminal Services Encryption Level is Medium or Low\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-primary\"\u003EINFO\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003EN/A\u003C/td\u003E\r\n              \u003Ctd\u003ETraceroute Information\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n            \u003Ctr\u003E\r\n              \u003Ctd\u003E\u003Cspan class=\"text-bg-primary\"\u003EINFO\u003C/span\u003E\u003C/td\u003E\r\n              \u003Ctd\u003EN/A\u003C/td\u003E\r\n              \u003Ctd\u003EHTTP Methods Allowed （per directory）\u003C/td\u003E\r\n            \u003C/tr\u003E\r\n          \u003C/tbody\u003E\r\n        \u003C/table\u003E\r\n      \u003C/td\u003E\r\n    \u003C/tr\u003E\r\n  \u003C/tbody\u003E\r\n\u003C/table\u003E\r\n公司內部網路共享資源掃瞄結果摘要如下：\r\n\u003Cimg src=\"/assets/exam/Protection/111/004.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -6242,7 +6242,7 @@
       "order": "30",
       "question": "【背景描述如附圖】請問透過通行碼鑑別協定和詢問握手認證協定進行認證時，關於第一步驟的 request/challenge，下列敘述何者正確？",
       "group": 3,
-      "groupInformation": null,
+      "groupInformation": "點對點協定（Point to Point Protocol, PPP）是網際網路工程任務組（Internet Engineering Task Force, IETF），推出的點對點網路協定，主要被應用在建立網路上的兩個節點之前的連線。因 PPP 本身不屬於安全協定，因此，提供了一個可選擇認證階段，早期常被使用的認證方式為通行碼鑑別協定（Password Authentication Protocol, PAP）和詢問握手認證協定（Challenge handshake authentication protocol, CHAP），後來又新增了擴展認證協定（Extensible Authentication Protocol, EAP）來增加可以支援的認證機制。",
       "options": [
         {
           "source": "A",
@@ -6275,7 +6275,7 @@
       "order": "31",
       "question": "【背景描述如附圖】請問關於通行碼鑑別協定和詢問握手認證協定認證過程中的安全性，下列敘述何者正確？",
       "group": 3,
-      "groupInformation": null,
+      "groupInformation": "點對點協定（Point to Point Protocol, PPP）是網際網路工程任務組（Internet Engineering Task Force, IETF），推出的點對點網路協定，主要被應用在建立網路上的兩個節點之前的連線。因 PPP 本身不屬於安全協定，因此，提供了一個可選擇認證階段，早期常被使用的認證方式為通行碼鑑別協定（Password Authentication Protocol, PAP）和詢問握手認證協定（Challenge handshake authentication protocol, CHAP），後來又新增了擴展認證協定（Extensible Authentication Protocol, EAP）來增加可以支援的認證機制。",
       "options": [
         {
           "source": "A",
@@ -6308,7 +6308,7 @@
       "order": "32",
       "question": "【背景描述如附圖】關於點對點協定、通行碼鑑別協定、詢問握手認證協定和擴展認證協定，下列敘述哪些正確？",
       "group": 3,
-      "groupInformation": null,
+      "groupInformation": "點對點協定（Point to Point Protocol, PPP）是網際網路工程任務組（Internet Engineering Task Force, IETF），推出的點對點網路協定，主要被應用在建立網路上的兩個節點之前的連線。因 PPP 本身不屬於安全協定，因此，提供了一個可選擇認證階段，早期常被使用的認證方式為通行碼鑑別協定（Password Authentication Protocol, PAP）和詢問握手認證協定（Challenge handshake authentication protocol, CHAP），後來又新增了擴展認證協定（Extensible Authentication Protocol, EAP）來增加可以支援的認證機制。",
       "options": [
         {
           "source": "A",
@@ -6506,7 +6506,7 @@
       "order": "38",
       "question": "【背景描述如附圖】若懷疑應用程式伺服器存在弱點，關於弱點評估，下列敘述何者「不」正確？",
       "group": 5,
-      "groupInformation": null,
+      "groupInformation": "某網站維護人員發現其網頁應用程式伺服器回應緩慢，因此進行應用程式效能分析與除錯，發現應用程式日誌中有以下的異常錯誤訊息：\u003Cimg src=\"/assets/exam/Protection/111/005.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -6539,7 +6539,7 @@
       "order": "39",
       "question": "【背景描述如附圖】若有跡證顯示伺服器已受駭，並確認為所安裝之軟體或元件存在弱點，下列資安事故處理流程何者較「不」正確？",
       "group": 5,
-      "groupInformation": null,
+      "groupInformation": "某網站維護人員發現其網頁應用程式伺服器回應緩慢，因此進行應用程式效能分析與除錯，發現應用程式日誌中有以下的異常錯誤訊息：\u003Cimg src=\"/assets/exam/Protection/111/005.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -6572,7 +6572,7 @@
       "order": "40",
       "question": "【背景描述如附圖】針對此次資安事故進行根因分析，確認為未能即時識別系統中惡意活動，下列矯正措施敘述哪些正確？",
       "group": 5,
-      "groupInformation": null,
+      "groupInformation": "某網站維護人員發現其網頁應用程式伺服器回應緩慢，因此進行應用程式效能分析與除錯，發現應用程式日誌中有以下的異常錯誤訊息：\u003Cimg src=\"/assets/exam/Protection/111/005.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -7298,7 +7298,7 @@
       "order": "22",
       "question": "題組背景描述如附圖。請問 R1 &lt; ---- &gt; SW1 之間所建立的架構稱為下列何者？",
       "group": 1,
-      "groupInformation": null,
+      "groupInformation": "身為公司網路管理人員的您，正在為公司的網路架構進行調整，將目前的網路架構進行區隔，在 R1 所屬的區域建立多個 VLAN 以隔離廣播（Broadcast），提升服務存取的效能。調整後之架構如下：\u003Cimg src=\"/assets/exam/Protection/110/002.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -7331,7 +7331,7 @@
       "order": "23",
       "question": "題組背景描述如附圖。公司預計明年進行擴廠需求，您計畫導入動態路由協定（Dynamic Routing Protocol）讓路由可自動更新至所有節點，以降低中斷的影響時間，下列何者「不」是避免路由迴圈的技術？",
       "group": 1,
-      "groupInformation": null,
+      "groupInformation": "身為公司網路管理人員的您，正在為公司的網路架構進行調整，將目前的網路架構進行區隔，在 R1 所屬的區域建立多個 VLAN 以隔離廣播（Broadcast），提升服務存取的效能。調整後之架構如下：\u003Cimg src=\"/assets/exam/Protection/110/002.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -7364,7 +7364,7 @@
       "order": "24",
       "question": "題組背景描述如附圖。承上題，R1 之現行路由表如附圖，若導入動態路由協定，並於 R1 進行路由匯總（route summarization），讓 SW2 及 SW3 的所有 Host 可以連接到 SW1 的所有 Host，請問 R1 應如何宣告 SW1 匯總後的路由？\u003Cimg src=\"/assets/exam/Protection/110/003.png\" class=\"d-block img-thumbnail\"\u003E",
       "group": 1,
-      "groupInformation": null,
+      "groupInformation": "身為公司網路管理人員的您，正在為公司的網路架構進行調整，將目前的網路架構進行區隔，在 R1 所屬的區域建立多個 VLAN 以隔離廣播（Broadcast），提升服務存取的效能。調整後之架構如下：\u003Cimg src=\"/assets/exam/Protection/110/002.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -7430,7 +7430,7 @@
       "order": "26",
       "question": "題組背景描述如附圖。承上題，在掌握相關資訊後應注意的資料庫安全性評估事項，下列敘述何者正確？",
       "group": 2,
-      "groupInformation": null,
+      "groupInformation": "某企業使用第三方 ERP 系統已經 15 年，該系統安裝於實體主機中，其作業系統為 Windows Server 2003，資料庫為 MS-SQL 2008 版本，其 ERP 資料庫相容層級為 100。該 ERP 只購買維護及三次新增客製功能，未購買升級更新版本。\r\n\u003Cdiv class=\"mb-3\"\u003E\u003C/div\u003E\r\n後端使用 Single Fiber Controller 連結 EMC storage，發現硬碟使用率已達90%，資料庫檔 erp.mdf 900 GB，資料庫 erp.ldf 檔 1.5TB。該公司 ISMS 制度中 ERP 服務級別協定（Service-Level Agreement, SLA）要求妥善率99.9%。\r\n\u003Cdiv class=\"mb-3\"\u003E\u003C/div\u003E\r\n因主機警示燈亮起，必須停機檢修，發現 RAID 卡電池組膨脹，頻繁當機。\r\n\u003Cdiv class=\"mb-3\"\u003E\u003C/div\u003E\r\n而 ERP 授權及容量限制，無法進行 P2V 全系統備份。緊急採購新主機進行替換，並安裝 Esxi，新主機規格為 HP-DL380 G10 為 8 核心 CPU*2、記憶體 256 GB、硬碟為 SAS 6TB*12。",
       "options": [
         {
           "source": "A",
@@ -7463,7 +7463,7 @@
       "order": "27",
       "question": "題組背景描述如附圖。承上題，關於新主機虛擬化之安全規劃應注意的主機與虛擬化之安全性評估事項，下列敘述何者較正確？",
       "group": 2,
-      "groupInformation": null,
+      "groupInformation": "某企業使用第三方 ERP 系統已經 15 年，該系統安裝於實體主機中，其作業系統為 Windows Server 2003，資料庫為 MS-SQL 2008 版本，其 ERP 資料庫相容層級為 100。該 ERP 只購買維護及三次新增客製功能，未購買升級更新版本。\r\n\u003Cdiv class=\"mb-3\"\u003E\u003C/div\u003E\r\n後端使用 Single Fiber Controller 連結 EMC storage，發現硬碟使用率已達90%，資料庫檔 erp.mdf 900 GB，資料庫 erp.ldf 檔 1.5TB。該公司 ISMS 制度中 ERP 服務級別協定（Service-Level Agreement, SLA）要求妥善率99.9%。\r\n\u003Cdiv class=\"mb-3\"\u003E\u003C/div\u003E\r\n因主機警示燈亮起，必須停機檢修，發現 RAID 卡電池組膨脹，頻繁當機。\r\n\u003Cdiv class=\"mb-3\"\u003E\u003C/div\u003E\r\n而 ERP 授權及容量限制，無法進行 P2V 全系統備份。緊急採購新主機進行替換，並安裝 Esxi，新主機規格為 HP-DL380 G10 為 8 核心 CPU*2、記憶體 256 GB、硬碟為 SAS 6TB*12。",
       "options": [
         {
           "source": "A",
@@ -7496,7 +7496,7 @@
       "order": "28",
       "question": "題組背景描述如附圖。承上題，若在 ISMS 制度中之服務級別協定（Service-Level Agreement, SLA）要求妥善率 99.9%，請問一年最大可容許停機時間約為多久？",
       "group": 2,
-      "groupInformation": null,
+      "groupInformation": "某企業使用第三方 ERP 系統已經 15 年，該系統安裝於實體主機中，其作業系統為 Windows Server 2003，資料庫為 MS-SQL 2008 版本，其 ERP 資料庫相容層級為 100。該 ERP 只購買維護及三次新增客製功能，未購買升級更新版本。\r\n\u003Cdiv class=\"mb-3\"\u003E\u003C/div\u003E\r\n後端使用 Single Fiber Controller 連結 EMC storage，發現硬碟使用率已達90%，資料庫檔 erp.mdf 900 GB，資料庫 erp.ldf 檔 1.5TB。該公司 ISMS 制度中 ERP 服務級別協定（Service-Level Agreement, SLA）要求妥善率99.9%。\r\n\u003Cdiv class=\"mb-3\"\u003E\u003C/div\u003E\r\n因主機警示燈亮起，必須停機檢修，發現 RAID 卡電池組膨脹，頻繁當機。\r\n\u003Cdiv class=\"mb-3\"\u003E\u003C/div\u003E\r\n而 ERP 授權及容量限制，無法進行 P2V 全系統備份。緊急採購新主機進行替換，並安裝 Esxi，新主機規格為 HP-DL380 G10 為 8 核心 CPU*2、記憶體 256 GB、硬碟為 SAS 6TB*12。",
       "options": [
         {
           "source": "A",
@@ -7562,7 +7562,7 @@
       "order": "30",
       "question": "題組背景描述如附圖。請問附圖是小明下了什麼指令？\u003Cimg src=\"/assets/exam/Protection/110/005.png\" class=\"d-block img-thumbnail\"\u003E",
       "group": 3,
-      "groupInformation": null,
+      "groupInformation": "小明是公司的資安工程師，早上有同仁通知電腦似乎發生異常，防毒軟體好像也失效，因此小明調閱了公司在網路出口的封包側錄檔案，如下圖，請就上述情境回答下列問題。\u003Cimg src=\"/assets/exam/Protection/110/004.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -7595,7 +7595,7 @@
       "order": "31",
       "question": "題組背景描述如附圖。小明從附圖中可找出封包中何者是惡意網站，造成同仁連上後下載了惡意程式，請問同仁電腦連上什麼中繼站，以及下載了什麼可疑的惡意檔案？\u003Cimg src=\"/assets/exam/Protection/110/005.png\" class=\"d-block img-thumbnail\"\u003E\u003Cimg src=\"/assets/exam/Protection/110/006.png\" class=\"d-block img-thumbnail\"\u003E",
       "group": 3,
-      "groupInformation": null,
+      "groupInformation": "小明是公司的資安工程師，早上有同仁通知電腦似乎發生異常，防毒軟體好像也失效，因此小明調閱了公司在網路出口的封包側錄檔案，如下圖，請就上述情境回答下列問題。\u003Cimg src=\"/assets/exam/Protection/110/004.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -7628,7 +7628,7 @@
       "order": "32",
       "question": "題組背景描述如附圖。小明在附圖封包中可以判斷出受害者連線下載惡意程式的網站 IP 位置為下列何者？\u003Cimg src=\"/assets/exam/Protection/110/007.png\" class=\"d-block img-thumbnail\"\u003E\u003Cimg src=\"/assets/exam/Protection/110/006.png\" class=\"d-block img-thumbnail\"\u003E",
       "group": 3,
-      "groupInformation": null,
+      "groupInformation": "小明是公司的資安工程師，早上有同仁通知電腦似乎發生異常，防毒軟體好像也失效，因此小明調閱了公司在網路出口的封包側錄檔案，如下圖，請就上述情境回答下列問題。\u003Cimg src=\"/assets/exam/Protection/110/004.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -7694,7 +7694,7 @@
       "order": "34",
       "question": "題組背景描述如附圖。承上題，當小李完成滲透測試後於報告中發現附圖資訊，判斷公司可能出現下列何種風險漏洞？\u003Cimg src=\"/assets/exam/Protection/110/008.png\" class=\"d-block img-thumbnail\"\u003E",
       "group": 4,
-      "groupInformation": null,
+      "groupInformation": "滲透測試（Penetration Test）是通過模擬惡意黑客的攻擊方法，來評估計算機網路系統安全的一種測試，目的是發掘系統漏洞，並提出改善方法，且通常來說是善意的，小李身為 A 公司的資安工程師，請就上述情境回答下列問題。",
       "options": [
         {
           "source": "A",
@@ -7727,7 +7727,7 @@
       "order": "35",
       "question": "題組背景描述如附圖。公司要求小李再協助處理弱點掃描（Vulnerability Assessment），請問滲透測試與弱點掃描的差異為下列何者？",
       "group": 4,
-      "groupInformation": null,
+      "groupInformation": "滲透測試（Penetration Test）是通過模擬惡意黑客的攻擊方法，來評估計算機網路系統安全的一種測試，目的是發掘系統漏洞，並提出改善方法，且通常來說是善意的，小李身為 A 公司的資安工程師，請就上述情境回答下列問題。",
       "options": [
         {
           "source": "A",
@@ -7760,7 +7760,7 @@
       "order": "36",
       "question": "題組背景描述如附圖。小李在研究系統安全維運與測試的過程，發現為了讓資訊安全測試與設計有較容易遵循的方法與流程，它是由多位資安領域專家、學者或顧問共同撰寫而成定義出許多資訊安全測試與設計範本，可幫助資安人員對於資訊安全測試與設計有一個較完整的全貌，請問下列哪些是目前業界共同的資訊安全測試參考的（方法論）文件範本？",
       "group": 4,
-      "groupInformation": null,
+      "groupInformation": "滲透測試（Penetration Test）是通過模擬惡意黑客的攻擊方法，來評估計算機網路系統安全的一種測試，目的是發掘系統漏洞，並提出改善方法，且通常來說是善意的，小李身為 A 公司的資安工程師，請就上述情境回答下列問題。",
       "options": [
         {
           "source": "A",
@@ -7826,7 +7826,7 @@
       "order": "38",
       "question": "題組背景描述如附圖。關於附圖兩個指令的執行結果，何者正確？",
       "group": 5,
-      "groupInformation": null,
+      "groupInformation": "小張為某公司資安工程師，其使用某工具並輸入了下列的指令執行：\u003Cbr /\u003E\r\nnc -vzw5 192.168.0.1 1-2048（操控端）\u003Cbr /\u003E\r\nnc -v -z -w5 192.168.0.1 1-2048（操控端）\u003Cbr /\u003E\r\nnc -ltp 80（操控端）\u003Cbr /\u003E\r\nnc -l -p 80 &lt; /test.txt（操控端）\u003Cbr /\u003E\r\nnc -t -p 80 &lt; /test.txt（操控端）\u003Cbr /\u003E\r\nnc -g -p 80 &gt; /test.txt（操控端）\u003Cbr /\u003E\r\nnc -g -p 80 &lt; /test.txt（操控端）\u003Cbr /\u003E\r\nnc -l -p 80（操控端）",
       "options": [
         {
           "source": "A",
@@ -7859,7 +7859,7 @@
       "order": "39",
       "question": "題組背景描述如附圖。請問題目中指令 nc -ltp 80（操控端）的執行結果為下列何者？",
       "group": 5,
-      "groupInformation": null,
+      "groupInformation": "小張為某公司資安工程師，其使用某工具並輸入了下列的指令執行：\u003Cbr /\u003E\r\nnc -vzw5 192.168.0.1 1-2048（操控端）\u003Cbr /\u003E\r\nnc -v -z -w5 192.168.0.1 1-2048（操控端）\u003Cbr /\u003E\r\nnc -ltp 80（操控端）\u003Cbr /\u003E\r\nnc -l -p 80 &lt; /test.txt（操控端）\u003Cbr /\u003E\r\nnc -t -p 80 &lt; /test.txt（操控端）\u003Cbr /\u003E\r\nnc -g -p 80 &gt; /test.txt（操控端）\u003Cbr /\u003E\r\nnc -g -p 80 &lt; /test.txt（操控端）\u003Cbr /\u003E\r\nnc -l -p 80（操控端）",
       "options": [
         {
           "source": "A",
@@ -7892,7 +7892,7 @@
       "order": "40",
       "question": "題組背景描述如附圖。請問操控端下達何種指令時，等待接聽 TCP 80 port，若接收到連線，就可以將 test.txt 傳送給對方？",
       "group": 5,
-      "groupInformation": null,
+      "groupInformation": "小張為某公司資安工程師，其使用某工具並輸入了下列的指令執行：\u003Cbr /\u003E\r\nnc -vzw5 192.168.0.1 1-2048（操控端）\u003Cbr /\u003E\r\nnc -v -z -w5 192.168.0.1 1-2048（操控端）\u003Cbr /\u003E\r\nnc -ltp 80（操控端）\u003Cbr /\u003E\r\nnc -l -p 80 &lt; /test.txt（操控端）\u003Cbr /\u003E\r\nnc -t -p 80 &lt; /test.txt（操控端）\u003Cbr /\u003E\r\nnc -g -p 80 &gt; /test.txt（操控端）\u003Cbr /\u003E\r\nnc -g -p 80 &lt; /test.txt（操控端）\u003Cbr /\u003E\r\nnc -l -p 80（操控端）",
       "options": [
         {
           "source": "A",
@@ -8618,7 +8618,7 @@
       "order": "22",
       "question": "題組背景描述如附圖。某日同仁通報公司檔案伺服器內之文件檔案均因不明原因被加密，所有儲存於檔案伺服器之檔案均無法開啟，導致該業務中斷服務，請問此為下列何種攻擊手法？",
       "group": 1,
-      "groupInformation": null,
+      "groupInformation": "某公司為軟體系統開發商，主要業務為協助客戶進行客製化軟體系統之開發，若您為公司資安官，負責公司所有資訊安全之防護與管理事宜，公司近期剛通過第三方之 ISO/IEC 27001 驗證，範圍包含：系統開發與機房管理、機房納管設備包含網路設備、防火牆、官網伺服器、檔案伺服器、防毒伺服器以及資料庫伺服器。",
       "options": [
         {
           "source": "A",
@@ -8651,7 +8651,7 @@
       "order": "23",
       "question": "題組背景描述如附圖。為了機房能夠正常提供納管設備之運作，避免某些因素而導致機房中斷服務，下列何種控制措施較為正確？",
       "group": 1,
-      "groupInformation": null,
+      "groupInformation": "某公司為軟體系統開發商，主要業務為協助客戶進行客製化軟體系統之開發，若您為公司資安官，負責公司所有資訊安全之防護與管理事宜，公司近期剛通過第三方之 ISO/IEC 27001 驗證，範圍包含：系統開發與機房管理、機房納管設備包含網路設備、防火牆、官網伺服器、檔案伺服器、防毒伺服器以及資料庫伺服器。",
       "options": [
         {
           "source": "A",
@@ -8684,7 +8684,7 @@
       "order": "24",
       "question": "題組背景描述如附圖。公司為客戶開發的軟體系統，於交付客戶前，為確保其安全性，應先執行下列哪些工作？",
       "group": 1,
-      "groupInformation": null,
+      "groupInformation": "某公司為軟體系統開發商，主要業務為協助客戶進行客製化軟體系統之開發，若您為公司資安官，負責公司所有資訊安全之防護與管理事宜，公司近期剛通過第三方之 ISO/IEC 27001 驗證，範圍包含：系統開發與機房管理、機房納管設備包含網路設備、防火牆、官網伺服器、檔案伺服器、防毒伺服器以及資料庫伺服器。",
       "options": [
         {
           "source": "A",
@@ -8750,7 +8750,7 @@
       "order": "26",
       "question": "題組背景描述如附圖。若要提升 vsftpd 傳輸的安全性，應該使用下列何種方式最安全？",
       "group": 2,
-      "groupInformation": null,
+      "groupInformation": "一位資安專家正在對內部網站進行連接埠掃描，使用工具為 Nmap，伺服器 IP 為 10.0.1.1，掃描後看到的結果如下：\u003Ctable class=\"table table-borderless table-sm\"\u003E\r\n  \u003Cthead\u003E\r\n    \u003Ctr\u003E\r\n      \u003Cth\u003EPORT\u003C/th\u003E\r\n      \u003Cth\u003ESTATE\u003C/th\u003E\r\n      \u003Cth\u003ESERVICE\u003C/th\u003E\r\n      \u003Cth\u003EVERSION\u003C/th\u003E\r\n    \u003C/tr\u003E\r\n  \u003C/thead\u003E\r\n  \u003Ctbody\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd\u003E21/tcp\u003C/td\u003E\r\n      \u003Ctd\u003Eopen\u003C/td\u003E\r\n      \u003Ctd\u003Eftp\u003C/td\u003E\r\n      \u003Ctd\u003Evsftpd 2.2.6\u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd\u003E110/tcp\u003C/td\u003E\r\n      \u003Ctd\u003Eopen\u003C/td\u003E\r\n      \u003Ctd\u003Epop3\u003C/td\u003E\r\n      \u003Ctd\u003Ecourier pop3d\u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd\u003E123/tcp\u003C/td\u003E\r\n      \u003Ctd\u003Eclosed\u003C/td\u003E\r\n      \u003Ctd\u003Entp\u003C/td\u003E\r\n      \u003Ctd\u003E\u003C/td\u003E\r\n    \u003C/tr\u003E\r\n  \u003C/tbody\u003E\r\n\u003C/table\u003E\r\n\u003Cp\u003E\r\n  Device type: general purpose\u003Cbr /\u003E\r\n  Running: Linux 4.1.x\r\n\u003C/p\u003E\r\n\u003Cp\u003E\r\n  OS details: Linux 4.1.18\u003Cbr /\u003E\r\n  Uptime: 215 days (since Thu Jan 4 15:30:20 2018)\u003Cbr /\u003E\r\n  Network Distance: 0 hops\u003Cbr /\u003E\r\n  Server Info: OS: Unix\r\n\u003C/p\u003E",
       "options": [
         {
           "source": "A",
@@ -8783,7 +8783,7 @@
       "order": "27",
       "question": "題組背景描述如附圖。若要在應用式防火牆（Application Firewall）開啟 FTP 服務提供 Internet 存取，下列何種開啟方式最佳？",
       "group": 2,
-      "groupInformation": null,
+      "groupInformation": "一位資安專家正在對內部網站進行連接埠掃描，使用工具為 Nmap，伺服器 IP 為 10.0.1.1，掃描後看到的結果如下：\u003Ctable class=\"table table-borderless table-sm\"\u003E\r\n  \u003Cthead\u003E\r\n    \u003Ctr\u003E\r\n      \u003Cth\u003EPORT\u003C/th\u003E\r\n      \u003Cth\u003ESTATE\u003C/th\u003E\r\n      \u003Cth\u003ESERVICE\u003C/th\u003E\r\n      \u003Cth\u003EVERSION\u003C/th\u003E\r\n    \u003C/tr\u003E\r\n  \u003C/thead\u003E\r\n  \u003Ctbody\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd\u003E21/tcp\u003C/td\u003E\r\n      \u003Ctd\u003Eopen\u003C/td\u003E\r\n      \u003Ctd\u003Eftp\u003C/td\u003E\r\n      \u003Ctd\u003Evsftpd 2.2.6\u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd\u003E110/tcp\u003C/td\u003E\r\n      \u003Ctd\u003Eopen\u003C/td\u003E\r\n      \u003Ctd\u003Epop3\u003C/td\u003E\r\n      \u003Ctd\u003Ecourier pop3d\u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd\u003E123/tcp\u003C/td\u003E\r\n      \u003Ctd\u003Eclosed\u003C/td\u003E\r\n      \u003Ctd\u003Entp\u003C/td\u003E\r\n      \u003Ctd\u003E\u003C/td\u003E\r\n    \u003C/tr\u003E\r\n  \u003C/tbody\u003E\r\n\u003C/table\u003E\r\n\u003Cp\u003E\r\n  Device type: general purpose\u003Cbr /\u003E\r\n  Running: Linux 4.1.x\r\n\u003C/p\u003E\r\n\u003Cp\u003E\r\n  OS details: Linux 4.1.18\u003Cbr /\u003E\r\n  Uptime: 215 days (since Thu Jan 4 15:30:20 2018)\u003Cbr /\u003E\r\n  Network Distance: 0 hops\u003Cbr /\u003E\r\n  Server Info: OS: Unix\r\n\u003C/p\u003E",
       "options": [
         {
           "source": "A",
@@ -8816,7 +8816,7 @@
       "order": "28",
       "question": "題組背景描述如附圖。若要提升 POP3 服務的安全性，應使用下列何種協定及連接埠？",
       "group": 2,
-      "groupInformation": null,
+      "groupInformation": "一位資安專家正在對內部網站進行連接埠掃描，使用工具為 Nmap，伺服器 IP 為 10.0.1.1，掃描後看到的結果如下：\u003Ctable class=\"table table-borderless table-sm\"\u003E\r\n  \u003Cthead\u003E\r\n    \u003Ctr\u003E\r\n      \u003Cth\u003EPORT\u003C/th\u003E\r\n      \u003Cth\u003ESTATE\u003C/th\u003E\r\n      \u003Cth\u003ESERVICE\u003C/th\u003E\r\n      \u003Cth\u003EVERSION\u003C/th\u003E\r\n    \u003C/tr\u003E\r\n  \u003C/thead\u003E\r\n  \u003Ctbody\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd\u003E21/tcp\u003C/td\u003E\r\n      \u003Ctd\u003Eopen\u003C/td\u003E\r\n      \u003Ctd\u003Eftp\u003C/td\u003E\r\n      \u003Ctd\u003Evsftpd 2.2.6\u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd\u003E110/tcp\u003C/td\u003E\r\n      \u003Ctd\u003Eopen\u003C/td\u003E\r\n      \u003Ctd\u003Epop3\u003C/td\u003E\r\n      \u003Ctd\u003Ecourier pop3d\u003C/td\u003E\r\n    \u003C/tr\u003E\r\n    \u003Ctr\u003E\r\n      \u003Ctd\u003E123/tcp\u003C/td\u003E\r\n      \u003Ctd\u003Eclosed\u003C/td\u003E\r\n      \u003Ctd\u003Entp\u003C/td\u003E\r\n      \u003Ctd\u003E\u003C/td\u003E\r\n    \u003C/tr\u003E\r\n  \u003C/tbody\u003E\r\n\u003C/table\u003E\r\n\u003Cp\u003E\r\n  Device type: general purpose\u003Cbr /\u003E\r\n  Running: Linux 4.1.x\r\n\u003C/p\u003E\r\n\u003Cp\u003E\r\n  OS details: Linux 4.1.18\u003Cbr /\u003E\r\n  Uptime: 215 days (since Thu Jan 4 15:30:20 2018)\u003Cbr /\u003E\r\n  Network Distance: 0 hops\u003Cbr /\u003E\r\n  Server Info: OS: Unix\r\n\u003C/p\u003E",
       "options": [
         {
           "source": "A",
@@ -8882,7 +8882,7 @@
       "order": "30",
       "question": "題組背景描述如附圖。關於 Let&#39;s Encrypt 及其機制，下列敘述何者「不」正確？",
       "group": 3,
-      "groupInformation": null,
+      "groupInformation": "免費憑證組織 Let&#39;s Encrypt，於 2019 年 2 月 27 日，宣佈該組織所頒發的免費憑證數量，已正式突破 10 億大關，該組織發佈免費憑證的目的是為了協助網站業者啟用 HTTPS 加密傳輸，由於該組織的大力協助使得全球啟用 HTTPS 的網頁數量已達到 81%，美國更高達 91%，有效提升全球使用 HTTPS 的普及率。",
       "options": [
         {
           "source": "A",
@@ -8915,7 +8915,7 @@
       "order": "31",
       "question": "題組背景描述如附圖。若想用 openssl 的指令完成產生並儲存自簽伺服器憑證，下列指令何者正確？",
       "group": 3,
-      "groupInformation": null,
+      "groupInformation": "免費憑證組織 Let&#39;s Encrypt，於 2019 年 2 月 27 日，宣佈該組織所頒發的免費憑證數量，已正式突破 10 億大關，該組織發佈免費憑證的目的是為了協助網站業者啟用 HTTPS 加密傳輸，由於該組織的大力協助使得全球啟用 HTTPS 的網頁數量已達到 81%，美國更高達 91%，有效提升全球使用 HTTPS 的普及率。",
       "options": [
         {
           "source": "A",
@@ -8948,7 +8948,7 @@
       "order": "32",
       "question": "題組背景描述如附圖。由於 Let&#39;s Encrypt 無法產生 localhost 憑證，請問如何在本機測試時避免 localhost 使用 HTTPS 時的警示訊息，以確保 HTTPS 的正常運作？",
       "group": 3,
-      "groupInformation": null,
+      "groupInformation": "免費憑證組織 Let&#39;s Encrypt，於 2019 年 2 月 27 日，宣佈該組織所頒發的免費憑證數量，已正式突破 10 億大關，該組織發佈免費憑證的目的是為了協助網站業者啟用 HTTPS 加密傳輸，由於該組織的大力協助使得全球啟用 HTTPS 的網頁數量已達到 81%，美國更高達 91%，有效提升全球使用 HTTPS 的普及率。",
       "options": [
         {
           "source": "A",
@@ -9014,7 +9014,7 @@
       "order": "34",
       "question": "題組背景描述如附圖。承上題，關於這則漏洞通報（如附圖）中所揭露的訊息，下列敘述何者正確？",
       "group": 4,
-      "groupInformation": null,
+      "groupInformation": "對於公司內部資安維運而言，資安漏洞或弱點的修補常是重要的工作，收到漏洞或弱點通報後，資安人員常依據漏洞或弱點之嚴重性，加上公司本身是否為漏洞或弱點影響範圍等資訊，來決定漏洞或弱點修補的優先性，以避免公司遭受更大的資安危害，A 公司係屬我國資通安全管理法所規範之“特定非公務機關”，且被主管機關核定資安責任等級為 A 級，對日常資安漏洞的修補投入許多心力。",
       "options": [
         {
           "source": "A",
@@ -9047,7 +9047,7 @@
       "order": "35",
       "question": "題組背景描述如附圖。承上題，當漏洞被公布後，資安人員在檢查受漏洞影響設備的 Access Log 時，發現了附圖疑似遭攻擊的紀錄，由於 /vpn 路徑項下不是此 web 服務公開路徑，下列敘述何者正確？\u003Cimg src=\"/assets/exam/Protection/109/002.png\" class=\"d-block img-thumbnail\"\u003E",
       "group": 4,
-      "groupInformation": null,
+      "groupInformation": "對於公司內部資安維運而言，資安漏洞或弱點的修補常是重要的工作，收到漏洞或弱點通報後，資安人員常依據漏洞或弱點之嚴重性，加上公司本身是否為漏洞或弱點影響範圍等資訊，來決定漏洞或弱點修補的優先性，以避免公司遭受更大的資安危害，A 公司係屬我國資通安全管理法所規範之“特定非公務機關”，且被主管機關核定資安責任等級為 A 級，對日常資安漏洞的修補投入許多心力。",
       "options": [
         {
           "source": "A",
@@ -9080,7 +9080,7 @@
       "order": "36",
       "question": "題組背景描述如附圖。承上題，因為透過 Access Log 研判駭客攻擊可能成功，請問對於該事件後續的處理，下列敘述何者正確？",
       "group": 4,
-      "groupInformation": null,
+      "groupInformation": "對於公司內部資安維運而言，資安漏洞或弱點的修補常是重要的工作，收到漏洞或弱點通報後，資安人員常依據漏洞或弱點之嚴重性，加上公司本身是否為漏洞或弱點影響範圍等資訊，來決定漏洞或弱點修補的優先性，以避免公司遭受更大的資安危害，A 公司係屬我國資通安全管理法所規範之“特定非公務機關”，且被主管機關核定資安責任等級為 A 級，對日常資安漏洞的修補投入許多心力。",
       "options": [
         {
           "source": "A",
@@ -9146,7 +9146,7 @@
       "order": "38",
       "question": "題組背景描述如附圖。滲透測試分三階段「攻擊前（Pre-Attack）」、「攻擊中（Attack）」與「攻擊後（Post-Attack）」。檢測團隊 X 欲執行主動式偵查（Active Reconnaissance）而透過網際網路對受測目標使用掃瞄器，探測目標網路邊界、網路服務與其應用程式資訊，此行為屬於下列何種階段？",
       "group": 5,
-      "groupInformation": null,
+      "groupInformation": "某公司為了符合國際標準要求，將年度定期舉行之滲透測試（Penetration Test, PT）作業，委由外部資安檢測團隊 X 來進行。",
       "options": [
         {
           "source": "A",
@@ -9179,7 +9179,7 @@
       "order": "39",
       "question": "題組背景描述如附圖。檢測團隊 X 測試公司網站，發現可竄改傳遞至應用程式之 XML 內容引入特定資源並回應其內容，再透過此漏洞列舉網站伺服器其中 Web 目錄，其中含有不尋常 PHP 檔案內容如下：&lt;?php eval($_POST[‘cmd’])&gt;。關於檔案內容，下列敘述何者「不」正確？",
       "group": 5,
-      "groupInformation": null,
+      "groupInformation": "某公司為了符合國際標準要求，將年度定期舉行之滲透測試（Penetration Test, PT）作業，委由外部資安檢測團隊 X 來進行。",
       "options": [
         {
           "source": "A",
@@ -9212,7 +9212,7 @@
       "order": "40",
       "question": "題組背景描述如附圖。檢測團隊 X 最終依照計畫如期完成公司測試案，並交付測試報告，關於滲透測試報告，下列敘述何者正確？",
       "group": 5,
-      "groupInformation": null,
+      "groupInformation": "某公司為了符合國際標準要求，將年度定期舉行之滲透測試（Penetration Test, PT）作業，委由外部資安檢測團隊 X 來進行。",
       "options": [
         {
           "source": "A",
@@ -9938,7 +9938,7 @@
       "order": "22",
       "question": "上述情境中，關於資料庫交易記錄，下列敘述何者「不」正確？",
       "group": 1,
-      "groupInformation": null,
+      "groupInformation": "某公司資安稽核部門進行年度檢視稽核，抽驗 (1) Web 資安黑箱檢測報告、(2) 資料庫紀錄、(3) 資訊系統存取紀錄以及 (4) 研發人員端點電腦記錄，請就下列紀錄與報告內容關連性，回答相關問題：\r\n\u003Cdiv class=\"mb-3\"\u003E\u003C/div\u003E\r\n(1) 在網站檢測報告，在紅（高風險）橘（中風險）藍（低風險）綠（資訊性提列）燈分項下的藍燈報告中發現：\r\n\u003Cimg src=\"/assets/exam/Protection/108/002.png\" class=\"d-block img-thumbnail\"\u003E\r\n\u003Cdiv class=\"mb-3\"\u003E\u003C/div\u003E\r\n(2) 在資料庫交易記錄中發現：\r\n\u003Cimg src=\"/assets/exam/Protection/108/003.png\" class=\"d-block img-thumbnail\"\u003E\r\n\u003Cdiv class=\"mb-3\"\u003E\u003C/div\u003E\r\n(3) 在 IIS Access Log 發現：\r\n\u003Cimg src=\"/assets/exam/Protection/108/004.png\" class=\"d-block img-thumbnail\"\u003E\r\n\u003Cdiv class=\"mb-3\"\u003E\u003C/div\u003E\r\n(4) 在研發人員端點電腦記錄發現：\r\n\u003Cimg src=\"/assets/exam/Protection/108/005.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -9971,7 +9971,7 @@
       "order": "23",
       "question": "上述情境中，關於 IIS Access log，下列敘述何者「不」正確？",
       "group": 1,
-      "groupInformation": null,
+      "groupInformation": "某公司資安稽核部門進行年度檢視稽核，抽驗 (1) Web 資安黑箱檢測報告、(2) 資料庫紀錄、(3) 資訊系統存取紀錄以及 (4) 研發人員端點電腦記錄，請就下列紀錄與報告內容關連性，回答相關問題：\r\n\u003Cdiv class=\"mb-3\"\u003E\u003C/div\u003E\r\n(1) 在網站檢測報告，在紅（高風險）橘（中風險）藍（低風險）綠（資訊性提列）燈分項下的藍燈報告中發現：\r\n\u003Cimg src=\"/assets/exam/Protection/108/002.png\" class=\"d-block img-thumbnail\"\u003E\r\n\u003Cdiv class=\"mb-3\"\u003E\u003C/div\u003E\r\n(2) 在資料庫交易記錄中發現：\r\n\u003Cimg src=\"/assets/exam/Protection/108/003.png\" class=\"d-block img-thumbnail\"\u003E\r\n\u003Cdiv class=\"mb-3\"\u003E\u003C/div\u003E\r\n(3) 在 IIS Access Log 發現：\r\n\u003Cimg src=\"/assets/exam/Protection/108/004.png\" class=\"d-block img-thumbnail\"\u003E\r\n\u003Cdiv class=\"mb-3\"\u003E\u003C/div\u003E\r\n(4) 在研發人員端點電腦記錄發現：\r\n\u003Cimg src=\"/assets/exam/Protection/108/005.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -10004,7 +10004,7 @@
       "order": "24",
       "question": "上述情境中，關於研發人員端點電腦記錄，下列敘述何者「不」正確？",
       "group": 1,
-      "groupInformation": null,
+      "groupInformation": "某公司資安稽核部門進行年度檢視稽核，抽驗 (1) Web 資安黑箱檢測報告、(2) 資料庫紀錄、(3) 資訊系統存取紀錄以及 (4) 研發人員端點電腦記錄，請就下列紀錄與報告內容關連性，回答相關問題：\r\n\u003Cdiv class=\"mb-3\"\u003E\u003C/div\u003E\r\n(1) 在網站檢測報告，在紅（高風險）橘（中風險）藍（低風險）綠（資訊性提列）燈分項下的藍燈報告中發現：\r\n\u003Cimg src=\"/assets/exam/Protection/108/002.png\" class=\"d-block img-thumbnail\"\u003E\r\n\u003Cdiv class=\"mb-3\"\u003E\u003C/div\u003E\r\n(2) 在資料庫交易記錄中發現：\r\n\u003Cimg src=\"/assets/exam/Protection/108/003.png\" class=\"d-block img-thumbnail\"\u003E\r\n\u003Cdiv class=\"mb-3\"\u003E\u003C/div\u003E\r\n(3) 在 IIS Access Log 發現：\r\n\u003Cimg src=\"/assets/exam/Protection/108/004.png\" class=\"d-block img-thumbnail\"\u003E\r\n\u003Cdiv class=\"mb-3\"\u003E\u003C/div\u003E\r\n(4) 在研發人員端點電腦記錄發現：\r\n\u003Cimg src=\"/assets/exam/Protection/108/005.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -10070,7 +10070,7 @@
       "order": "26",
       "question": "上述情境中，當攻擊發生時，IPS 在當下並無觸發告警，經與原廠確認，原廠告知該設備對此一攻擊具有偵測能力，下列敘述何者「不」是未觸發告警原因？",
       "group": 2,
-      "groupInformation": null,
+      "groupInformation": "某公司因資安考量，重新規劃對外網站的連線架構，AP 與 DB Server 放在 Intranet，Reverse proxy（Web）放在 DMZ，對外 Web 連線使用 SSL 連線，AP 與 Reverse proxy 之間亦使用加密連線，而這幾台主機間的流量，都納入網路型 IPS 進行監控（該 IPS 目前僅有攻擊特徵偵測功能），DMZ/Internet/Intranet 間亦有防火牆進行連線控管。某天公司內的資安人員發現有人嘗試在攻擊對外網站，在 DMZ Web server 連線日誌中發現以下可疑的連線記錄\r\n\u003Cimg src=\"/assets/exam/Protection/108/006.png\" class=\"d-block img-thumbnail\"\u003E\r\n\u003Cimg src=\"/assets/exam/Protection/108/007.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -10103,7 +10103,7 @@
       "order": "27",
       "question": "上述情境中，當資安人員進一步分析 AP Server Access Log，發現 AP Server 所紀錄的連線 Log 中，來源 IP 都只出現 DMZ Web IP(113.101.155.21)，未出現其他外部來源 IP，可能是下列何項功能所造成的影響？",
       "group": 2,
-      "groupInformation": null,
+      "groupInformation": "某公司因資安考量，重新規劃對外網站的連線架構，AP 與 DB Server 放在 Intranet，Reverse proxy（Web）放在 DMZ，對外 Web 連線使用 SSL 連線，AP 與 Reverse proxy 之間亦使用加密連線，而這幾台主機間的流量，都納入網路型 IPS 進行監控（該 IPS 目前僅有攻擊特徵偵測功能），DMZ/Internet/Intranet 間亦有防火牆進行連線控管。某天公司內的資安人員發現有人嘗試在攻擊對外網站，在 DMZ Web server 連線日誌中發現以下可疑的連線記錄\r\n\u003Cimg src=\"/assets/exam/Protection/108/006.png\" class=\"d-block img-thumbnail\"\u003E\r\n\u003Cimg src=\"/assets/exam/Protection/108/007.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -10136,7 +10136,7 @@
       "order": "28",
       "question": "上述情境中，此次駭客遠端攻擊最終有成功，駭客透過應用程式漏洞在 AP Server 上植入了常見已知的後門程式，但當下資安人員未能發現，如果要改善此連線架構的資安偵測，能第一時間發現或防止駭客植入後門程式，在不影響 AP 服務功能的前提下，下列哪些敘述可以達到此一目的？",
       "group": 2,
-      "groupInformation": null,
+      "groupInformation": "某公司因資安考量，重新規劃對外網站的連線架構，AP 與 DB Server 放在 Intranet，Reverse proxy（Web）放在 DMZ，對外 Web 連線使用 SSL 連線，AP 與 Reverse proxy 之間亦使用加密連線，而這幾台主機間的流量，都納入網路型 IPS 進行監控（該 IPS 目前僅有攻擊特徵偵測功能），DMZ/Internet/Intranet 間亦有防火牆進行連線控管。某天公司內的資安人員發現有人嘗試在攻擊對外網站，在 DMZ Web server 連線日誌中發現以下可疑的連線記錄\r\n\u003Cimg src=\"/assets/exam/Protection/108/006.png\" class=\"d-block img-thumbnail\"\u003E\r\n\u003Cimg src=\"/assets/exam/Protection/108/007.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -10202,7 +10202,7 @@
       "order": "30",
       "question": "上述情境中，新廠的網際網路接口端為了簡化設備管理，改採用 UTM（Unified Threat Management）整合式威脅管理設備，下列何者「不」是 UTM 設備的常見功能？",
       "group": 3,
-      "groupInformation": null,
+      "groupInformation": "公司近期另一工業區的新廠房建築物將完工，準備開始進行系統佈建作業，擔任資訊室系統工程師的你必須在工程前先做好資訊與通訊系統的相關規劃作業；目前公司計劃將在新廠建置一條新的生產線，並將生產三課、品管部門與客服部門移到新廠，同時設立 60 人的辦公室，ERP 及 CRM 等資訊系統作業仍將連到既有資訊中心的相關系統上操作。",
       "options": [
         {
           "source": "A",
@@ -10235,7 +10235,7 @@
       "order": "31",
       "question": "上述情境中，由於新廠並未規劃設置 MIS 人員，為了達到總廠資訊室人員可以進行設備遠端管理與維護作業，下列哪些維運功能是可考量規劃建置的功能？",
       "group": 3,
-      "groupInformation": null,
+      "groupInformation": "公司近期另一工業區的新廠房建築物將完工，準備開始進行系統佈建作業，擔任資訊室系統工程師的你必須在工程前先做好資訊與通訊系統的相關規劃作業；目前公司計劃將在新廠建置一條新的生產線，並將生產三課、品管部門與客服部門移到新廠，同時設立 60 人的辦公室，ERP 及 CRM 等資訊系統作業仍將連到既有資訊中心的相關系統上操作。",
       "options": [
         {
           "source": "A",
@@ -10268,7 +10268,7 @@
       "order": "32",
       "question": "上述情境中，為統一網路資安防護管理，新廠網路必須經由總廠才能上網，且新產線不能由工廠外部直接連接，並依作業需求將內網分為 2 個安全管理區域（Security Zone），LAN1 為生產三課、品管部門與客服部門使用的辦公室子網段，LAN2 為新產線 SCADA 系統設備使用的子網段，並且只限使用 TCP 1499 Port 與總廠 MES（Manufacturing Execution System）製造執行管理系統連接，與使用 TCP 1599 port 來操作新廠 HMI（Human Machine Interface）人機界面。在新廠閘道端的 UTM 設備考量規劃將設定下列防火牆安全政策：\u003Cbr /\u003E\r\n(1) Deny All\u003Cbr /\u003E\r\n(2) Allow Any to IPSec\u003Cbr /\u003E\r\n(3) Allow LAN1 to WAN\u003Cbr /\u003E\r\n(4) Allow LAN1 to DMZ\u003Cbr /\u003E\r\n(5) Allow LAN1 to IPSec\u003Cbr /\u003E\r\n(6) Allow LAN2 to IPSec\u003Cbr /\u003E\r\n(7) Allow IPSec to LAN1\u003Cbr /\u003E\r\n(8) Allow IPSec to LAN2\u003Cbr /\u003E\r\n(9) Deny IPSec to LAN2 tcp port 1499\u003Cbr /\u003E\r\n(10) Deny IPSec to LAN2 tcp port 1599\u003Cbr /\u003E\r\n(11) Allow LAN1 to IPSec tcp port 1499\u003Cbr /\u003E\r\n(12) Allow LAN2 to IPSec tcp port 1499\u003Cbr /\u003E\r\n(13) Allow LAN1 to IPSec tcp port 1599\u003Cbr /\u003E\r\n(14) Allow LAN2 to IPSec tcp port 1599\u003Cbr /\u003E\r\n(15) Deny IPSec to LAN2 tcp port 1499\u003Cbr /\u003E\r\n(16) Allow IPSec to LAN2 tcp port 1499\u003Cbr /\u003E\r\n(17) Deny IPSec to LAN2 tcp port 1599\u003Cbr /\u003E\r\n(18) Allow Any to LAN2 tcp port 1599\u003Cbr /\u003E\r\n(19) Allow SSL to LAN1\u003Cbr /\u003E\r\n(20) Allow Any to SSL\u003Cbr /\u003E\r\n\u003Cdiv class=\"mb-3\"\u003E\u003C/div\u003E\r\n請問這幾項防火牆安全政策排列次序由左到右何者為最佳？",
       "group": 3,
-      "groupInformation": null,
+      "groupInformation": "公司近期另一工業區的新廠房建築物將完工，準備開始進行系統佈建作業，擔任資訊室系統工程師的你必須在工程前先做好資訊與通訊系統的相關規劃作業；目前公司計劃將在新廠建置一條新的生產線，並將生產三課、品管部門與客服部門移到新廠，同時設立 60 人的辦公室，ERP 及 CRM 等資訊系統作業仍將連到既有資訊中心的相關系統上操作。",
       "options": [
         {
           "source": "A",
@@ -10334,7 +10334,7 @@
       "order": "34",
       "question": "上述情境中，本次事故屬《資通安全事件通報及應變辦法》中的第幾級資通安全事件？",
       "group": 4,
-      "groupInformation": null,
+      "groupInformation": "組織 ABC 為金融監督管理委員會（金管會）管轄的關鍵基礎設施提供者，受到金管會核定為 A 級特定非公務機關，在一日的維運中，系統管理員 John 在操作核心線上系統時，發現電腦突然重新開機且無法正常啟動 Windows 作業系統，並直接即出現下列畫面。\u003Cimg src=\"/assets/exam/Protection/108/008.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -10367,7 +10367,7 @@
       "order": "35",
       "question": "上述情境中，依《資通安全事件通報及應變辦法》規定，應於發現後多久時間內通報金管會？",
       "group": 4,
-      "groupInformation": null,
+      "groupInformation": "組織 ABC 為金融監督管理委員會（金管會）管轄的關鍵基礎設施提供者，受到金管會核定為 A 級特定非公務機關，在一日的維運中，系統管理員 John 在操作核心線上系統時，發現電腦突然重新開機且無法正常啟動 Windows 作業系統，並直接即出現下列畫面。\u003Cimg src=\"/assets/exam/Protection/108/008.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -10400,7 +10400,7 @@
       "order": "36",
       "question": "上述情境中，依《資通安全事件通報及應變辦法》規定，應於多少時間內完成損害控制或復原作業，並通報金管會？",
       "group": 4,
-      "groupInformation": null,
+      "groupInformation": "組織 ABC 為金融監督管理委員會（金管會）管轄的關鍵基礎設施提供者，受到金管會核定為 A 級特定非公務機關，在一日的維運中，系統管理員 John 在操作核心線上系統時，發現電腦突然重新開機且無法正常啟動 Windows 作業系統，並直接即出現下列畫面。\u003Cimg src=\"/assets/exam/Protection/108/008.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -10466,7 +10466,7 @@
       "order": "38",
       "question": "上述情境中，若該電腦主機作業系統為 Win7，同一時間，資安人員在該台主機 acc.txt 同一目錄，發現另一個檔案\u003Cimg src=\"/assets/exam/Protection/108/010.png\" class=\"d-block img-thumbnail\"\u003E",
       "group": 5,
-      "groupInformation": null,
+      "groupInformation": "某日資安人員接獲通報，系統維運人員在某台 windows 主機上找到一個文字檔（acc.txt）內容如下，因為發現文字檔案”Name”欄位的資料與電腦帳號是雷同的，資安人員發現此文字檔中，含有該台主機之 administrator 權限的帳號\u003Cimg src=\"/assets/exam/Protection/108/009.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -10499,7 +10499,7 @@
       "order": "39",
       "question": "上述情境中，若資安人員確認此一現象可能是駭客入侵或電腦遭惡意程式感染，故進一步檢查電腦應用程式執行狀態，發現有一不明程式常駐在電腦中執行，下列何者「不」能列出目前 windows 電腦中正在運行的程式？（請勿考量 windows 版本問題）",
       "group": 5,
-      "groupInformation": null,
+      "groupInformation": "某日資安人員接獲通報，系統維運人員在某台 windows 主機上找到一個文字檔（acc.txt）內容如下，因為發現文字檔案”Name”欄位的資料與電腦帳號是雷同的，資安人員發現此文字檔中，含有該台主機之 administrator 權限的帳號\u003Cimg src=\"/assets/exam/Protection/108/009.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -10532,7 +10532,7 @@
       "order": "40",
       "question": "上述情境中，資安人員在經過清查後，發現有數十台電腦都有找到 acc.exe 與 hash.txt，檔案內容都留有該電腦的帳號清單與疑似密碼 hash 的資訊，也有部份電腦發現不明應用程式常駐，下列哪些屬於應優先處理的應變措施？",
       "group": 5,
-      "groupInformation": null,
+      "groupInformation": "某日資安人員接獲通報，系統維運人員在某台 windows 主機上找到一個文字檔（acc.txt）內容如下，因為發現文字檔案”Name”欄位的資料與電腦帳號是雷同的，資安人員發現此文字檔中，含有該台主機之 administrator 權限的帳號\u003Cimg src=\"/assets/exam/Protection/108/009.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -10730,7 +10730,7 @@
       "order": "06",
       "question": "情境如附圖所示。在你自覺到公司的網站伺服器可能入侵的同時，你發現在資料庫伺服器的工作排程中出現了一個名為 windows update 的工作，執行的內容如附圖二所示。請問對於 windows update 的工作內容描述，下列何者正確？\u003Cimg src=\"/assets/exam/Protection/114-1/003.png\" class=\"d-block img-thumbnail\"\u003E",
       "group": 1,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/114-1/001.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -10763,7 +10763,7 @@
       "order": "07",
       "question": "情境如附圖所示。當資安小組開始調查這個事件時，在 AD 主機上發現了附圖三的內容。請問你遭受了什麼類型的攻擊？\u003Cimg src=\"/assets/exam/Protection/114-1/004.png\" class=\"d-block img-thumbnail\"\u003E",
       "group": 1,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/114-1/001.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -10796,7 +10796,7 @@
       "order": "08",
       "question": "情境如附圖所示。針對上述情境，下列哪些措施可以有效降低類似攻擊再次發生的機率？",
       "group": 1,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/114-1/001.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -11126,7 +11126,7 @@
       "order": "18",
       "question": "情境如附圖所示。資安人員於風險評鑑過程中，發覺該公司有一部防火牆已遭原廠宣告終止服務（End of Service，EOS）。試問有關資安人員對於此一發現之後續作為，下列何者最為適切？",
       "group": 2,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/114-1/005.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -11159,7 +11159,7 @@
       "order": "19",
       "question": "情境如附圖所示。當資安人員進行風險評鑑與處理時，接獲內部人員通報發生勒索病毒感染之資通安全事件，該事件已造成檔案交換主機（未涉及關鍵基礎設施維運）內的檔案遭加密無法開啟，系統亦無法正常使用，影響了核心業務的正常運作且無法於可容忍中斷時間內回復正常運作。試問有關資安人員對於此一事件處理之作為，下列何者錯誤？",
       "group": 2,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/114-1/005.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -11192,7 +11192,7 @@
       "order": "20",
       "question": "情境如附圖所示。鑒於防火牆 EOS 的事件，該公司資安長非常重視事前資通安全情資的蒐集與分析，俾利公司能有足夠的時間來因應突發的資訊安全風險發生。試問有關資安人員對於資通安全情資的蒐集與分析作為，下列哪些正確？",
       "group": 2,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/114-1/005.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -11390,7 +11390,7 @@
       "order": "26",
       "question": "情境如附圖所示。該公司評估團隊認為安全資訊與事件管理（Security Information and Event Management）對公司的資安監控維運中心是重要的基礎設施，下列關於安全資訊與事件管理的功能敘述，何項最「不」適切？",
       "group": 3,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/114-1/008.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -11423,7 +11423,7 @@
       "order": "27",
       "question": "情境如附圖所示。該公司的資安顧問建議可以考慮SOAR方案，經其評估團隊了解，SOAR 可以簡單理解為具有自動化功能的進階式平台，旨在幫助企業更有效地回應和解決資安問題，以實現更全面和智慧化的資安管理。請問下列何項最「不」是 SOAR 具備的功能？",
       "group": 3,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/114-1/008.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -11456,7 +11456,7 @@
       "order": "28",
       "question": "情境如附圖所示。該公司評估人員為借鑑業界的成功案例，蒐集相關資料，從雲端服務公司的資安維運經驗而言，現代化安全維運模式（SecOps）重要的關鍵元素應包含下列哪些項目？",
       "group": 3,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/114-1/008.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -11654,7 +11654,7 @@
       "order": "34",
       "question": "情境如附圖所示。承上題，你經過調查之後，在log中發現好幾個可疑的內容，請問下列哪一個log的推論最有可能是「錯誤」的？",
       "group": 4,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/114-1/010.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -11687,7 +11687,7 @@
       "order": "35",
       "question": "情境如附圖所示。承上題，當你調查完畢之後，你判斷這個網頁系統中有一個任意檔案上傳漏洞，因此迅速把弱點資訊回報給資訊部門，並且提供修補建議請他們修補漏洞。請問下列何項建議對於修補這個資安漏洞最「不」適切？",
       "group": 4,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/114-1/010.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -11720,7 +11720,7 @@
       "order": "36",
       "question": "情境如附圖所示。承上題，你把該檔案移除之後，你發現系統中仍然有人在執行攻擊指令，你推測可能是紅隊人員在取得系統控制權之後，有執行一連串維持權限（Persistence）的動作。請問以下哪些是紅隊人員用來維持權限的技巧？",
       "group": 4,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/114-1/010.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -11786,7 +11786,7 @@
       "order": "38",
       "question": "情境如附圖所示。檢測人員在利用SQL注入（SQL Injection）成功後，發現在/var/logs/AUTH.log中，出現了一個名為 &#39;&lt;?php system($_GET[&#39;c&#39;]); ?&gt;&#39; 的帳號嘗試登入該主機，如果這網網站存在LFI（Local File Inclusion）弱點時，可以從Web access log中的uri query string找到什麼特徵？",
       "group": 5,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/114-1/012.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -11819,7 +11819,7 @@
       "order": "39",
       "question": "情境如附圖所示。在以高、低權限交叉進行URI的比對時，測試人員發現，在高權限進行後台編輯文章時URI所帶的參數裡面發現多一個名為pri的參數（如附圖二），而低權限的使用者則沒有，因此測試人員嘗試進行修改低權限使用者在該頁面中的uri參數，加上了pri參數使其與管理人員一致，頁面上出現的是無權限存取，測試人員仔細觀查後發現在該頁面存取時，會送出Post的Http方法裡帶入了一個 sid的參數，當測試人員將其帶入到低權限的帳號中，竟然可以成功的存取到管理者可瀏覽的頁面，其功能也完整呈現，這樣的測試證明了這個頁面存在下列那一個OWASP Top 10 2021的弱點？\u003Cimg src=\"/assets/exam/Protection/114-1/014.png\" class=\"d-block img-thumbnail\"\u003E",
       "group": 5,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/114-1/012.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
@@ -11852,7 +11852,7 @@
       "order": "40",
       "question": "情境如附圖所示。在上述的情境當中，滲透測試人員發現可以透過修改HTTP POST參數得到可網站較高的管理權限，而在測試弱點影響主機安全的深度時，在測試過程中，利用LFI（Local File Inclusion）的弱點讀取到網站應用程式的組態檔，進而發現了該主機的mysql並未針對來源IP進行限縮，你身為滲透測試人員在測試報告中下列那一些建議事項，對受測單位而言，在不損及服務可用性的前提下，下列哪些答案符合以最少的金錢、管理、技術對弱點進行有效的管理？\u003Cimg src=\"/assets/exam/Protection/114-1/015.png\" class=\"d-block img-thumbnail\"\u003E",
       "group": 5,
-      "groupInformation": null,
+      "groupInformation": "\u003Cimg src=\"/assets/exam/Protection/114-1/012.png\" class=\"d-block img-thumbnail\"\u003E",
       "options": [
         {
           "source": "A",
