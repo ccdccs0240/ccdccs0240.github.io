@@ -6682,7 +6682,7 @@
         {
           "source": "B",
           "description": "1、3",
-          "isAnswer": false,
+          "isAnswer": true,
           "isControversial": true
         },
         {
@@ -6754,13 +6754,13 @@
         {
           "source": "C",
           "description": "採用對稱式加密處理大量訊息，並使用數位簽章進行金鑰交換",
-          "isAnswer": true,
+          "isAnswer": false,
           "isControversial": false
         },
         {
           "source": "D",
           "description": "採用對稱式加密處理大量訊息，並使用非對稱式加密進行金鑰交換",
-          "isAnswer": false,
+          "isAnswer": true,
           "isControversial": false
         }
       ]
