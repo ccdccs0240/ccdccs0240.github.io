@@ -6721,7 +6721,7 @@
         {
           "source": "C",
           "description": "Error-based SQL injection 屬於 inband 的注入模式，被戲稱盲注入",
-          "isAnswer": false,
+          "isAnswer": true,
           "isControversial": true
         },
         {
