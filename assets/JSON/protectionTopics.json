@@ -8470,7 +8470,7 @@
         {
           "source": "C",
           "description": "XSS 的問題只會出現在可執行 JavaScript 的環境中",
-          "isAnswer": true,
+          "isAnswer": false,
           "isControversial": true
         },
         {
